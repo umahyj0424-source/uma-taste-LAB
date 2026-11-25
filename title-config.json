@@ -341,5 +341,59 @@
     "minMatches": 3,
     "generationPriority": 65,
     "racePriority": 60
+  },
+  "extra": {
+    "average": {
+      "enabled": true,
+      "minMatches": 3,
+      "distances": [
+        "마일",
+        "중거리"
+      ],
+      "tiers": [
+        {
+          "max": 0.1,
+          "title": "인간 표준편차",
+          "priority": 80,
+          "requiresDistance": false
+        },
+        {
+          "max": 0.25,
+          "title": "극한의 말평 ㅋㅋ",
+          "priority": 70,
+          "requiresDistance": true
+        },
+        {
+          "max": 0.5,
+          "title": "말평 ㅋㅋ",
+          "priority": 45,
+          "requiresDistance": true
+        }
+      ]
+    },
+    "sex": {
+      "enabled": true,
+      "minMatches": 3,
+      "tiers": [
+        [
+          100,
+          "티아라 순혈파",
+          "클래식 순혈파",
+          75
+        ],
+        [
+          80,
+          "티아라 일편단심",
+          "클래식 일편단심",
+          55
+        ],
+        [
+          60,
+          "티아라 애호가",
+          "클래식 애호가",
+          35
+        ]
+      ]
+    }
   }
 }

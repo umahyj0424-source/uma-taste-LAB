@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-25",
+  "newIds": [
+    {
+      "id": 143,
+      "name": "제뉴인",
+      "image": "images/143.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 144,
+      "name": "에프포리아",
+      "image": "images/144.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 145,
+      "name": "팔레놉시스",
+      "image": "images/145.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 146,
+      "name": "윈 마릴린",
+      "image": "images/146.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 147,
+      "name": "카지노 드라이브",
+      "image": "images/147.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 148,
+      "name": "세인트 라이트",
+      "image": "images/148.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 149,
+      "name": "스피드 심볼리",
+      "image": "images/149.png",
+      "raceHistory": "pending"
+    },
+    {
+      "id": 150,
+      "name": "하이세이코",
+      "image": "images/150.png",
+      "raceHistory": "pending"
+    }
+  ],
+  "aptitudeUpdates": {
+    "에피파네이아": {
+      "value": "AGGEAADABG",
+      "source": "https://gametora.com/umamusume/characters/114101-epiphaneia"
+    },
+    "로즈 킹덤": {
+      "value": "AGGAACGABG",
+      "source": "https://gametora.com/umamusume/characters/rose-kingdom"
+    },
+    "데어링 택트": {
+      "value": "AGFAAFGDAF",
+      "source": "https://gametora.com/umamusume/characters/107501-daring-tact"
+    }
+  },
+  "phalaenopsisAptitudeSource": "https://gametora.com/umamusume/characters/114901-phalaenopsis",
+  "limitations": [
+    "전체 출전 기록 미수집",
+    "등급제 이전 원본마 G1 통계 제외"
+  ]
+}

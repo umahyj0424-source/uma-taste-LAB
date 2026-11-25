@@ -1,0 +1,3657 @@
+{
+  "asOf": "2026-11-25",
+  "scope": "16 previously missing horses, actual starts only",
+  "distanceConvention": "nominal metric distance in source (overseas netkeiba equivalents; not exact furlong conversion).",
+  "gradeConvention": "as listed by source, pre-grading-era races left null. GI and JpnI remain distinct in raw records.",
+  "totalStarts": 333,
+  "totalWins": 126,
+  "horses": [
+    {
+      "id": 74,
+      "name": "데어링 택트",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2017100720/",
+        "https://www.jbis.or.jp/horse/0001236599/record/all/"
+      ],
+      "note": "",
+      "starts": 13,
+      "wins": 5,
+      "dist": [
+        0,
+        4,
+        9,
+        0
+      ],
+      "surface": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2019-11-16",
+          "venue": "京都",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-02-08",
+          "venue": "京都",
+          "race": "エルフィンS",
+          "grade": "L",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-04-12",
+          "venue": "阪神",
+          "race": "桜花賞",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-05-24",
+          "venue": "東京",
+          "race": "優駿牝馬",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-10-18",
+          "venue": "京都",
+          "race": "秋華賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-11-29",
+          "venue": "東京",
+          "race": "ジャパンC",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2021-03-14",
+          "venue": "中京",
+          "race": "金鯱賞",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2021-04-25",
+          "venue": "シャティン",
+          "race": "QE2世C",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2022-05-15",
+          "venue": "東京",
+          "race": "ヴィクトリアマイル",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2022-06-26",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2022-09-25",
+          "venue": "中山",
+          "race": "オールカマー",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2022-11-13",
+          "venue": "阪神",
+          "race": "エリザベス女王杯",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2022-11-27",
+          "venue": "東京",
+          "race": "ジャパンC",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 4
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "삼손 빅",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/1991104957/",
+        "https://www.jbis.or.jp/horse/0000245182/"
+      ],
+      "note": "",
+      "starts": 35,
+      "wins": 4,
+      "dist": [
+        14,
+        6,
+        6,
+        9
+      ],
+      "surface": [
+        24,
+        3,
+        0,
+        8
+      ],
+      "races": [
+        {
+          "date": "1993-07-10",
+          "venue": "札幌",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1993-08-01",
+          "venue": "札幌",
+          "race": "札幌3歳S",
+          "grade": "GIII",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 15
+        },
+        {
+          "date": "1993-08-29",
+          "venue": "函館",
+          "race": "クローバー賞",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "1993-09-26",
+          "venue": "函館",
+          "race": "函館3歳S",
+          "grade": "GIII",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1993-10-23",
+          "venue": "京都",
+          "race": "萩S",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1993-11-06",
+          "venue": "京都",
+          "race": "デイリー杯3歳S",
+          "grade": "GII",
+          "distanceM": 1400,
+          "surface": "turf",
+          "finish": 14
+        },
+        {
+          "date": "1993-11-20",
+          "venue": "福島",
+          "race": "福島3歳S",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1993-12-12",
+          "venue": "中山",
+          "race": "朝日杯3歳S",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 13
+        },
+        {
+          "date": "1994-01-16",
+          "venue": "阪神",
+          "race": "シンザン記念",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 11
+        },
+        {
+          "date": "1994-02-06",
+          "venue": "阪神",
+          "race": "きさらぎ賞",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-03-27",
+          "venue": "中山",
+          "race": "スプリングS",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "1994-04-17",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 17
+        },
+        {
+          "date": "1994-05-08",
+          "venue": "阪神",
+          "race": "京都4歳特別",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 14
+        },
+        {
+          "date": "1994-05-29",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 18
+        },
+        {
+          "date": "1994-11-06",
+          "venue": "京都",
+          "race": "菊花賞",
+          "grade": "GI",
+          "distanceM": 3000,
+          "surface": "turf",
+          "finish": 15
+        },
+        {
+          "date": "1994-12-11",
+          "venue": "中京",
+          "race": "愛知杯",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": "DNF"
+        },
+        {
+          "date": "1995-04-22",
+          "venue": "京都",
+          "race": "栗東S",
+          "grade": "OP",
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 16
+        },
+        {
+          "date": "1995-05-06",
+          "venue": "京都",
+          "race": "シルクロードS",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 15
+        },
+        {
+          "date": "1995-06-03",
+          "venue": "京都",
+          "race": "阪急杯",
+          "grade": "GIII",
+          "distanceM": 1400,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "1995-06-18",
+          "venue": "中京",
+          "race": "金鯱賞",
+          "grade": "GIII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 10
+        },
+        {
+          "date": "1995-07-02",
+          "venue": "中京",
+          "race": "東海S",
+          "grade": "OP",
+          "distanceM": 1700,
+          "surface": "dirt",
+          "finish": 12
+        },
+        {
+          "date": "1995-08-13",
+          "venue": "函館",
+          "race": "マリーンS",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 13
+        },
+        {
+          "date": "1995-09-03",
+          "venue": "函館",
+          "race": "青函S",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 10
+        },
+        {
+          "date": "1995-09-30",
+          "venue": "中山",
+          "race": "オータムスプリントS",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "1995-10-14",
+          "venue": "京都",
+          "race": "オパールS",
+          "grade": "OP",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "1995-11-05",
+          "venue": "新潟",
+          "race": "秋野S",
+          "grade": "OP",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1995-12-10",
+          "venue": "中京",
+          "race": "愛知杯",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 13
+        },
+        {
+          "date": "1996-01-20",
+          "venue": "京都",
+          "race": "障害4歳以上未勝利",
+          "grade": null,
+          "distanceM": 2910,
+          "surface": "jump",
+          "finish": 1
+        },
+        {
+          "date": "1996-02-24",
+          "venue": "阪神",
+          "race": "障害4歳以上400万下",
+          "grade": null,
+          "distanceM": 3000,
+          "surface": "jump",
+          "finish": 4
+        },
+        {
+          "date": "1996-03-17",
+          "venue": "阪神",
+          "race": "障害4歳以上400万下",
+          "grade": null,
+          "distanceM": 3000,
+          "surface": "jump",
+          "finish": 2
+        },
+        {
+          "date": "1996-05-12",
+          "venue": "京都",
+          "race": "障害4歳以上400万下",
+          "grade": null,
+          "distanceM": 2910,
+          "surface": "jump",
+          "finish": 2
+        },
+        {
+          "date": "1996-06-08",
+          "venue": "中京",
+          "race": "障害4歳以上400万下",
+          "grade": null,
+          "distanceM": 2800,
+          "surface": "jump",
+          "finish": 1
+        },
+        {
+          "date": "1997-06-01",
+          "venue": "中京",
+          "race": "障害4歳以上OP",
+          "grade": "OP",
+          "distanceM": 2800,
+          "surface": "jump",
+          "finish": 3
+        },
+        {
+          "date": "1997-06-29",
+          "venue": "福島",
+          "race": "障害4歳以上OP",
+          "grade": "OP",
+          "distanceM": 2750,
+          "surface": "jump",
+          "finish": 8
+        },
+        {
+          "date": "1997-07-19",
+          "venue": "小倉",
+          "race": "小倉障害S",
+          "grade": "OP",
+          "distanceM": 2950,
+          "surface": "jump",
+          "finish": 6
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "사쿠라 치토세 오",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/1990108898/",
+        "https://www.jbis.or.jp/horse/0000237393/record/"
+      ],
+      "note": "1993-05-01 아오바상 출전 취소 제외.",
+      "starts": 21,
+      "wins": 9,
+      "dist": [
+        1,
+        9,
+        9,
+        2
+      ],
+      "surface": [
+        20,
+        1,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "1992-10-11",
+          "venue": "東京",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1992-12-19",
+          "venue": "中山",
+          "race": "ひいらぎ賞",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1993-05-09",
+          "venue": "東京",
+          "race": "NHK杯",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1993-05-30",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 11
+        },
+        {
+          "date": "1994-02-05",
+          "venue": "東京",
+          "race": "節分賞",
+          "grade": null,
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "1994-02-20",
+          "venue": "東京",
+          "race": "テレビ埼玉杯",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-03-13",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-04-10",
+          "venue": "中山",
+          "race": "エイプリルS",
+          "grade": "OP",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1994-05-01",
+          "venue": "東京",
+          "race": "メトロポリタンS",
+          "grade": "OP",
+          "distanceM": 2300,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-06-12",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1994-09-11",
+          "venue": "中山",
+          "race": "京王杯オータムH",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-10-30",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1994-11-13",
+          "venue": "東京",
+          "race": "富士S",
+          "grade": "OP",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-12-25",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1995-01-22",
+          "venue": "中山",
+          "race": "AJCC",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1995-03-12",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1995-05-14",
+          "venue": "東京",
+          "race": "安田記念",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1995-06-04",
+          "venue": "京都",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "1995-10-08",
+          "venue": "東京",
+          "race": "毎日王冠",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1995-10-29",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1995-12-24",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "블래스트 원피스",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2015104882/",
+        "https://www.jbis.or.jp/horse/0001208511/record/"
+      ],
+      "note": "",
+      "starts": 18,
+      "wins": 7,
+      "dist": [
+        0,
+        2,
+        12,
+        4
+      ],
+      "surface": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2017-11-19",
+          "venue": "東京",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2018-02-04",
+          "venue": "東京",
+          "race": "ゆりかもめ賞",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2018-03-24",
+          "venue": "阪神",
+          "race": "毎日杯",
+          "grade": "GIII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2018-05-27",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2018-09-02",
+          "venue": "新潟",
+          "race": "新潟記念",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2018-10-21",
+          "venue": "京都",
+          "race": "菊花賞",
+          "grade": "GI",
+          "distanceM": 3000,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2018-12-23",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2019-03-31",
+          "venue": "阪神",
+          "race": "大阪杯",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2019-05-26",
+          "venue": "東京",
+          "race": "目黒記念",
+          "grade": "GII",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "2019-08-18",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2019-10-06",
+          "venue": "パリロンシャン",
+          "race": "凱旋門賞",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 11
+        },
+        {
+          "date": "2020-01-26",
+          "venue": "中山",
+          "race": "AJCC",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-04-05",
+          "venue": "阪神",
+          "race": "大阪杯",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "2020-06-28",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 16
+        },
+        {
+          "date": "2020-11-01",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 11
+        },
+        {
+          "date": "2020-12-27",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": "DNF"
+        },
+        {
+          "date": "2021-06-05",
+          "venue": "中京",
+          "race": "鳴尾記念",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2021-08-22",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 5
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "포에버 영",
+      "sourceUrls": [
+        "https://www.jbis.or.jp/horse/0001339834/record/all/",
+        "https://www.jrha.or.jp/selectsale/g1kachiuma/2022049"
+      ],
+      "note": "2026년 해외 경주는 JBIS 현지 날짜 사용. G1 5승, JpnI 2승. 원본 g1WinsSource 유지.",
+      "starts": 17,
+      "wins": 12,
+      "dist": [
+        0,
+        7,
+        10,
+        0
+      ],
+      "surface": [
+        0,
+        17,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2023-10-14",
+          "venue": "京都",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2023-11-03",
+          "venue": "門別",
+          "race": "JBC2歳優駿",
+          "grade": "JpnIII",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2023-12-13",
+          "venue": "川崎",
+          "race": "全日本2歳優駿",
+          "grade": "JpnI",
+          "distanceM": 1600,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2024-02-24",
+          "venue": "キングアブドゥルアジーズ",
+          "race": "サウジダービー",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2024-03-30",
+          "venue": "メイダン",
+          "race": "UAEダービー",
+          "grade": "GII",
+          "distanceM": 1900,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2024-05-04",
+          "venue": "チャーチルダウンズ",
+          "race": "ケンタッキーダービー",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "2024-10-02",
+          "venue": "大井",
+          "race": "ジャパンダートクラシック",
+          "grade": "JpnI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2024-11-02",
+          "venue": "デルマー",
+          "race": "BCクラシック",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "2024-12-29",
+          "venue": "大井",
+          "race": "東京大賞典",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2025-02-22",
+          "venue": "キングアブドゥルアジーズ",
+          "race": "サウジC",
+          "grade": "GI",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2025-04-05",
+          "venue": "メイダン",
+          "race": "ドバイワールドC",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "2025-10-01",
+          "venue": "船橋",
+          "race": "日本テレビ盃",
+          "grade": "JpnII",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2025-11-01",
+          "venue": "デルマー",
+          "race": "BCクラシック",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2026-02-14",
+          "venue": "キングアブドゥルアジーズ",
+          "race": "サウジC",
+          "grade": "GI",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2026-03-28",
+          "venue": "メイダン",
+          "race": "ドバイワールドC",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 2
+        },
+        {
+          "date": "2026-09-18",
+          "venue": "ベルモントパーク",
+          "race": "ジョッキークラブゴールドC",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2026-10-31",
+          "venue": "キーンランド",
+          "race": "BCクラシック",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 5
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "마르슈 로렌",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2016104426/",
+        "https://www.jbis.or.jp/horse/0001215728/record/"
+      ],
+      "note": "",
+      "starts": 22,
+      "wins": 9,
+      "dist": [
+        0,
+        14,
+        8,
+        0
+      ],
+      "surface": [
+        12,
+        10,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2019-02-03",
+          "venue": "京都",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2019-02-23",
+          "venue": "阪神",
+          "race": "3歳未勝利",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2019-05-25",
+          "venue": "京都",
+          "race": "3歳未勝利",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2019-07-21",
+          "venue": "中京",
+          "race": "3歳未勝利",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2019-08-10",
+          "venue": "小倉",
+          "race": "3歳未勝利",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2019-10-19",
+          "venue": "新潟",
+          "race": "3歳以上1勝クラス",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2019-11-03",
+          "venue": "福島",
+          "race": "3歳以上1勝クラス",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-03-29",
+          "venue": "阪神",
+          "race": "四国新聞杯",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-04-25",
+          "venue": "福島",
+          "race": "福島牝馬S",
+          "grade": "GIII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2020-05-16",
+          "venue": "新潟",
+          "race": "パールS",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 12
+        },
+        {
+          "date": "2020-06-14",
+          "venue": "阪神",
+          "race": "マーメイドS",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2020-08-16",
+          "venue": "小倉",
+          "race": "博多S",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2020-09-05",
+          "venue": "小倉",
+          "race": "桜島S",
+          "grade": null,
+          "distanceM": 1700,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2020-10-08",
+          "venue": "大井",
+          "race": "レディスプレリュード",
+          "grade": "JpnII",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2020-11-03",
+          "venue": "大井",
+          "race": "JBCレディスクラシック",
+          "grade": "JpnI",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "2021-01-20",
+          "venue": "大井",
+          "race": "TCK女王盃",
+          "grade": "JpnIII",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2021-03-04",
+          "venue": "川崎",
+          "race": "エンプレス杯",
+          "grade": "JpnII",
+          "distanceM": 2100,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2021-05-22",
+          "venue": "中京",
+          "race": "平安S",
+          "grade": "GIII",
+          "distanceM": 1900,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "2021-06-30",
+          "venue": "大井",
+          "race": "帝王賞",
+          "grade": "JpnI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 8
+        },
+        {
+          "date": "2021-08-12",
+          "venue": "門別",
+          "race": "ブリーダーズゴールドC",
+          "grade": "JpnIII",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2021-11-06",
+          "venue": "デルマー",
+          "race": "BCディスタフ",
+          "grade": "GI",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2022-02-26",
+          "venue": "キングアブドゥルアジーズ",
+          "race": "サウジC",
+          "grade": "GI",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 6
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "로고타입",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2010103783/",
+        "https://www.jbis.or.jp/horse/0001124405/record/"
+      ],
+      "note": "",
+      "starts": 30,
+      "wins": 6,
+      "dist": [
+        4,
+        18,
+        8,
+        0
+      ],
+      "surface": [
+        29,
+        1,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2012-06-24",
+          "venue": "函館",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2012-07-14",
+          "venue": "函館",
+          "race": "函館2歳S",
+          "grade": "GIII",
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2012-08-04",
+          "venue": "札幌",
+          "race": "クローバー賞",
+          "grade": "OP",
+          "distanceM": 1500,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2012-09-01",
+          "venue": "札幌",
+          "race": "札幌2歳S",
+          "grade": "GIII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2012-11-25",
+          "venue": "東京",
+          "race": "ベゴニア賞",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2012-12-16",
+          "venue": "中山",
+          "race": "朝日杯FS",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2013-03-17",
+          "venue": "中山",
+          "race": "スプリングS",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2013-04-14",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2013-05-26",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2013-08-18",
+          "venue": "函館",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2014-03-02",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2014-03-29",
+          "venue": "メイダン",
+          "race": "ドバイデューティフリー",
+          "grade": "GI",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2014-08-24",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "2014-10-12",
+          "venue": "東京",
+          "race": "毎日王冠",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2014-11-23",
+          "venue": "京都",
+          "race": "マイルチャンピオンシップ",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "2015-01-04",
+          "venue": "中山",
+          "race": "中山金杯",
+          "grade": "GIII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2015-02-01",
+          "venue": "東京",
+          "race": "根岸S",
+          "grade": "GIII",
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 8
+        },
+        {
+          "date": "2015-03-01",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2015-04-05",
+          "venue": "阪神",
+          "race": "産経大阪杯",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2015-09-27",
+          "venue": "中山",
+          "race": "オールカマー",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2015-10-24",
+          "venue": "東京",
+          "race": "富士S",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2015-11-22",
+          "venue": "京都",
+          "race": "マイルチャンピオンシップ",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2016-02-28",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "2016-04-03",
+          "venue": "中山",
+          "race": "ダービー卿CT",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2016-06-05",
+          "venue": "東京",
+          "race": "安田記念",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2016-10-09",
+          "venue": "東京",
+          "race": "毎日王冠",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "2016-10-30",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2016-12-11",
+          "venue": "シャティン",
+          "race": "香港マイル",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2017-02-26",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2017-06-04",
+          "venue": "東京",
+          "race": "安田記念",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "타이틀홀더",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2018103559/",
+        "https://www.jbis.or.jp/horse/0001267543/"
+      ],
+      "note": "",
+      "starts": 19,
+      "wins": 7,
+      "dist": [
+        0,
+        2,
+        9,
+        8
+      ],
+      "surface": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2020-10-04",
+          "venue": "中山",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-11-23",
+          "venue": "東京",
+          "race": "東京スポーツ杯2歳S",
+          "grade": "GIII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2020-12-26",
+          "venue": "中山",
+          "race": "ホープフルS",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2021-03-07",
+          "venue": "中山",
+          "race": "弥生賞",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-04-18",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2021-05-30",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2021-09-20",
+          "venue": "中山",
+          "race": "セントライト記念",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 13
+        },
+        {
+          "date": "2021-10-24",
+          "venue": "阪神",
+          "race": "菊花賞",
+          "grade": "GI",
+          "distanceM": 3000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-12-26",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2022-03-26",
+          "venue": "中山",
+          "race": "日経賞",
+          "grade": "GII",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2022-05-01",
+          "venue": "阪神",
+          "race": "天皇賞(春)",
+          "grade": "GI",
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2022-06-26",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2022-10-02",
+          "venue": "パリロンシャン",
+          "race": "凱旋門賞",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 11
+        },
+        {
+          "date": "2022-12-25",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2023-03-25",
+          "venue": "中山",
+          "race": "日経賞",
+          "grade": "GII",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2023-04-30",
+          "venue": "京都",
+          "race": "天皇賞(春)",
+          "grade": "GI",
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": "DNF"
+        },
+        {
+          "date": "2023-09-24",
+          "venue": "中山",
+          "race": "オールカマー",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2023-11-26",
+          "venue": "東京",
+          "race": "ジャパンC",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2023-12-24",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "제뉴인",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/1992109450/",
+        "https://www.jbis.or.jp/horse/0000262275/record/"
+      ],
+      "note": "",
+      "starts": 21,
+      "wins": 5,
+      "dist": [
+        2,
+        10,
+        7,
+        2
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "1994-10-15",
+          "venue": "東京",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1400,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1994-10-30",
+          "venue": "東京",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1400,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1994-11-27",
+          "venue": "東京",
+          "race": "赤松賞",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1995-01-28",
+          "venue": "東京",
+          "race": "セントポーリア賞",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1995-03-18",
+          "venue": "中山",
+          "race": "若葉S",
+          "grade": "OP",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1995-04-16",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1995-05-28",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1995-09-10",
+          "venue": "中山",
+          "race": "京王杯オータムH",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1995-10-08",
+          "venue": "東京",
+          "race": "毎日王冠",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1995-10-29",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1995-12-24",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 10
+        },
+        {
+          "date": "1996-03-10",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1996-06-09",
+          "venue": "東京",
+          "race": "安田記念",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1996-10-27",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 14
+        },
+        {
+          "date": "1996-11-17",
+          "venue": "京都",
+          "race": "マイルチャンピオンシップ",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1996-12-22",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 14
+        },
+        {
+          "date": "1997-06-08",
+          "venue": "東京",
+          "race": "安田記念",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1997-08-17",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1997-10-05",
+          "venue": "東京",
+          "race": "毎日王冠",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "1997-10-26",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1997-11-16",
+          "venue": "京都",
+          "race": "マイルチャンピオンシップ",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 9
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "에프포리아",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2018105027/",
+        "https://www.jbis.or.jp/horse/0001266977/record/all/"
+      ],
+      "note": "",
+      "starts": 11,
+      "wins": 6,
+      "dist": [
+        0,
+        1,
+        8,
+        2
+      ],
+      "surface": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2020-08-23",
+          "venue": "札幌",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-11-08",
+          "venue": "東京",
+          "race": "百日草特別",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-02-14",
+          "venue": "東京",
+          "race": "共同通信杯",
+          "grade": "GIII",
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-04-18",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-05-30",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2021-10-31",
+          "venue": "東京",
+          "race": "天皇賞(秋)",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-12-26",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2022-04-03",
+          "venue": "阪神",
+          "race": "大阪杯",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2022-06-26",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2022-12-25",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2023-02-12",
+          "venue": "阪神",
+          "race": "京都記念",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": "DNF"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "name": "팔레놉시스",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/1995105092/",
+        "https://www.jbis.or.jp/horse/0000295505/record/"
+      ],
+      "note": "",
+      "starts": 16,
+      "wins": 7,
+      "dist": [
+        3,
+        5,
+        7,
+        1
+      ],
+      "surface": [
+        15,
+        1,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "1997-11-30",
+          "venue": "阪神",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1997-12-14",
+          "venue": "阪神",
+          "race": "さざんか賞",
+          "grade": null,
+          "distanceM": 1400,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1998-02-15",
+          "venue": "京都",
+          "race": "エルフィンS",
+          "grade": "OP",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1998-03-07",
+          "venue": "阪神",
+          "race": "チューリップ賞",
+          "grade": "GIII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1998-04-12",
+          "venue": "阪神",
+          "race": "桜花賞",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1998-05-31",
+          "venue": "東京",
+          "race": "優駿牝馬",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1998-09-27",
+          "venue": "阪神",
+          "race": "ローズS",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1998-10-25",
+          "venue": "京都",
+          "race": "秋華賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1999-03-07",
+          "venue": "阪神",
+          "race": "マイラーズC",
+          "grade": "GII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 10
+        },
+        {
+          "date": "1999-05-15",
+          "venue": "東京",
+          "race": "京王杯スプリングC",
+          "grade": "GII",
+          "distanceM": 1400,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "1999-08-22",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1999-11-14",
+          "venue": "京都",
+          "race": "エリザベス女王杯",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1999-12-26",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "2000-04-15",
+          "venue": "阪神",
+          "race": "マイラーズC",
+          "grade": "GII",
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 10
+        },
+        {
+          "date": "2000-08-20",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "2000-11-12",
+          "venue": "京都",
+          "race": "エリザベス女王杯",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "윈 마릴린",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2017101431/",
+        "https://www.jbis.or.jp/horse/0001232347/record/"
+      ],
+      "note": "",
+      "starts": 22,
+      "wins": 6,
+      "dist": [
+        0,
+        1,
+        17,
+        4
+      ],
+      "surface": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "2019-12-21",
+          "venue": "中山",
+          "race": "2歳新馬",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-01-26",
+          "venue": "中山",
+          "race": "若竹賞",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2020-03-31",
+          "venue": "中山",
+          "race": "ミモザ賞",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-04-26",
+          "venue": "東京",
+          "race": "フローラS",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2020-05-24",
+          "venue": "東京",
+          "race": "優駿牝馬",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2020-10-18",
+          "venue": "京都",
+          "race": "秋華賞",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 15
+        },
+        {
+          "date": "2020-11-15",
+          "venue": "阪神",
+          "race": "エリザベス女王杯",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2021-01-24",
+          "venue": "中山",
+          "race": "AJCC",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2021-03-27",
+          "venue": "中山",
+          "race": "日経賞",
+          "grade": "GII",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-05-02",
+          "venue": "阪神",
+          "race": "天皇賞(春)",
+          "grade": "GI",
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "2021-09-26",
+          "venue": "中山",
+          "race": "オールカマー",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2021-11-14",
+          "venue": "阪神",
+          "race": "エリザベス女王杯",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 16
+        },
+        {
+          "date": "2022-04-03",
+          "venue": "阪神",
+          "race": "大阪杯",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 16
+        },
+        {
+          "date": "2022-06-26",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "2022-08-21",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "2022-11-13",
+          "venue": "阪神",
+          "race": "エリザベス女王杯",
+          "grade": "GI",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "2022-12-11",
+          "venue": "シャティン",
+          "race": "香港ヴァーズ",
+          "grade": "GI",
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "2023-03-25",
+          "venue": "メイダン",
+          "race": "ドバイシーマC",
+          "grade": "GI",
+          "distanceM": 2410,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "2023-08-20",
+          "venue": "札幌",
+          "race": "札幌記念",
+          "grade": "GII",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2023-09-24",
+          "venue": "中山",
+          "race": "オールカマー",
+          "grade": "GII",
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "2023-11-04",
+          "venue": "サンタアニタパーク",
+          "race": "BCF&Mターフ",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "2023-12-24",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": "GI",
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 7
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "카지노 드라이브",
+      "sourceUrls": [
+        "https://db.sp.netkeiba.com/horse/result/2005110112/",
+        "https://www.jbis.or.jp/horse/0001040066/record/",
+        "https://www.brisnet.com/racing/news/casino-drive-looks-to-rebound-in-japan-cup-dirt/",
+        "https://saratogatrack.blogspot.com/2008/10/"
+      ],
+      "note": "2008-06-07 벨몬트 S 출전 취소 제외. 2008-10-12 및 2008-10-25 산타아니타 합성주로로 분류.",
+      "starts": 11,
+      "wins": 4,
+      "dist": [
+        2,
+        6,
+        3,
+        0
+      ],
+      "surface": [
+        0,
+        9,
+        2,
+        0
+      ],
+      "races": [
+        {
+          "date": "2008-02-23",
+          "venue": "京都",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2008-05-10",
+          "venue": "ベルモントパーク",
+          "race": "ピーターパンS",
+          "grade": "GII",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2008-10-12",
+          "venue": "サンタアニタパーク",
+          "race": "条件戦",
+          "grade": null,
+          "distanceM": 1700,
+          "surface": "synthetic",
+          "finish": 1
+        },
+        {
+          "date": "2008-10-25",
+          "venue": "サンタアニタパーク",
+          "race": "BCクラシック",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "synthetic",
+          "finish": 12
+        },
+        {
+          "date": "2008-12-07",
+          "venue": "阪神",
+          "race": "ジャパンCダート",
+          "grade": "GI",
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 6
+        },
+        {
+          "date": "2009-01-24",
+          "venue": "中山",
+          "race": "アレキサンドライトS",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "2009-02-22",
+          "venue": "東京",
+          "race": "フェブラリーS",
+          "grade": "GI",
+          "distanceM": 1600,
+          "surface": "dirt",
+          "finish": 2
+        },
+        {
+          "date": "2009-03-28",
+          "venue": "ナドアルシバ",
+          "race": "ドバイワールドC",
+          "grade": "GI",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 8
+        },
+        {
+          "date": "2011-03-06",
+          "venue": "阪神",
+          "race": "仁川S",
+          "grade": "OP",
+          "distanceM": 2000,
+          "surface": "dirt",
+          "finish": 9
+        },
+        {
+          "date": "2011-05-01",
+          "venue": "東京",
+          "race": "アハルテケS",
+          "grade": "OP",
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 3
+        },
+        {
+          "date": "2011-05-29",
+          "venue": "東京",
+          "race": "つばさ賞",
+          "grade": "OP",
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 8
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "세인트 라이트",
+      "sourceUrls": [
+        "https://www.jra.go.jp/gallery/dendo/horse02/index.html"
+      ],
+      "note": "등급제 이전 경주; grade=null.",
+      "starts": 12,
+      "wins": 9,
+      "dist": [
+        0,
+        1,
+        9,
+        2
+      ],
+      "surface": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "1941-03-15",
+          "venue": "横浜",
+          "race": "新呼馬",
+          "grade": null,
+          "distanceM": 1700,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-03-30",
+          "venue": "横浜",
+          "race": "横浜農林省賞典4歳呼馬",
+          "grade": null,
+          "distanceM": 1850,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-04-05",
+          "venue": "中山",
+          "race": "4歳呼馬",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-04-27",
+          "venue": "中山",
+          "race": "4歳呼馬",
+          "grade": null,
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-05-03",
+          "venue": "東京",
+          "race": "古呼馬特殊ハンデキヤツプ",
+          "grade": null,
+          "distanceM": 2300,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1941-05-10",
+          "venue": "東京",
+          "race": "古呼馬",
+          "grade": null,
+          "distanceM": 2300,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-05-18",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-09-27",
+          "venue": "横浜",
+          "race": "古呼馬特殊ハンデキヤツプ",
+          "grade": null,
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1941-10-05",
+          "venue": "横浜",
+          "race": "古呼馬",
+          "grade": null,
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-10-12",
+          "venue": "横浜",
+          "race": "横浜農林省賞典4・5歳呼馬",
+          "grade": null,
+          "distanceM": 2800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1941-10-18",
+          "venue": "京都",
+          "race": "古呼馬",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1941-10-26",
+          "venue": "京都",
+          "race": "京都農林省賞典4歳呼馬",
+          "grade": null,
+          "distanceM": 3000,
+          "surface": "turf",
+          "finish": 1
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "스피드 심볼리",
+      "sourceUrls": [
+        "https://www.jra.go.jp/gallery/dendo/horse17/index.html",
+        "https://www.jbis.or.jp/horse/0000010412/record/"
+      ],
+      "note": "JRA 현지 날짜 기준. 1969년 다이아몬드 S 날짜는 JRA(3/20)와 JBIS(3/30) 불일치; JRA 표기 유지.",
+      "starts": 43,
+      "wins": 17,
+      "dist": [
+        4,
+        7,
+        12,
+        20
+      ],
+      "surface": [
+        42,
+        1,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "1965-10-03",
+          "venue": "中山",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1965-10-17",
+          "venue": "中山",
+          "race": "3歳新馬",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1965-11-21",
+          "venue": "東京",
+          "race": "3歳未勝利",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1965-12-12",
+          "venue": "中山",
+          "race": "3歳50万下",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1965-12-25",
+          "venue": "中山",
+          "race": "3歳特別",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1966-02-27",
+          "venue": "東京",
+          "race": "弥生賞",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1966-03-20",
+          "venue": "中山",
+          "race": "京成盃",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1966-04-17",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 21
+        },
+        {
+          "date": "1966-05-08",
+          "venue": "東京",
+          "race": "NHK盃",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 13
+        },
+        {
+          "date": "1966-05-29",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "1966-06-19",
+          "venue": "東京",
+          "race": "日本短波賞",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1966-09-18",
+          "venue": "東京",
+          "race": "京王盃オータムH",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1966-10-09",
+          "venue": "東京",
+          "race": "セントライト記念",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1966-11-13",
+          "venue": "京都",
+          "race": "菊花賞",
+          "grade": null,
+          "distanceM": 3000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1966-12-25",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1967-01-22",
+          "venue": "中山",
+          "race": "AJCC",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1967-03-12",
+          "venue": "東京",
+          "race": "目黒記念(春)",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1967-04-29",
+          "venue": "京都",
+          "race": "天皇賞(春)",
+          "grade": null,
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1967-06-25",
+          "venue": "中山",
+          "race": "日本経済賞",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1967-11-11",
+          "venue": "米",
+          "race": "ワシントンDCインターナショナル",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "1967-12-24",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1968-01-24",
+          "venue": "中山",
+          "race": "AJCC",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "1968-03-31",
+          "venue": "中山",
+          "race": "ダイヤモンドS",
+          "grade": null,
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1968-04-21",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 8
+        },
+        {
+          "date": "1968-09-28",
+          "venue": "東京",
+          "race": "4歳以上オープン",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1968-10-13",
+          "venue": "東京",
+          "race": "アルゼンチンジョッキークラブC",
+          "grade": null,
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1968-11-30",
+          "venue": "東京",
+          "race": "4歳以上オープン",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1968-12-22",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1969-01-19",
+          "venue": "中山",
+          "race": "AJCC",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1969-03-09",
+          "venue": "東京",
+          "race": "目黒記念(春)",
+          "grade": null,
+          "distanceM": 2300,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1969-03-20",
+          "venue": "中山",
+          "race": "ダイヤモンドS",
+          "grade": null,
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1969-05-11",
+          "venue": "東京",
+          "race": "アルゼンチンジョッキークラブC",
+          "grade": null,
+          "distanceM": 2600,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1969-07-26",
+          "venue": "英",
+          "race": "キングジョージ6世&クイーンエリザベスS",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 5
+        },
+        {
+          "date": "1969-08-31",
+          "venue": "仏",
+          "race": "ドーヴィル大賞典",
+          "grade": null,
+          "distanceM": 2600,
+          "surface": "turf",
+          "finish": 10
+        },
+        {
+          "date": "1969-10-05",
+          "venue": "仏",
+          "race": "凱旋門賞",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": "unplaced"
+        },
+        {
+          "date": "1969-12-21",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1970-01-18",
+          "venue": "東京",
+          "race": "AJCC",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1970-05-05",
+          "venue": "中山",
+          "race": "アルゼンチンジョッキークラブC",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1970-05-31",
+          "venue": "阪神",
+          "race": "宝塚記念",
+          "grade": null,
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1970-06-21",
+          "venue": "中山",
+          "race": "日本経済賞",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1970-09-06",
+          "venue": "中山",
+          "race": "毎日王冠",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1970-10-18",
+          "venue": "京都",
+          "race": "ハリウッドターフクラブ賞",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 7
+        },
+        {
+          "date": "1970-12-20",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 1
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "name": "하이세이코",
+      "sourceUrls": [
+        "https://www.janis.or.jp/users/sairyuta/horse/hiseikou.html",
+        "https://www.jra.go.jp/datafile/dendo/horse11.html",
+        "https://www.jbis.or.jp/horse/0000036106/"
+      ],
+      "note": "등급제 이전 경주이므로 grade=null; 통산 기록 JRA/JBIS 교차 확인.",
+      "starts": 22,
+      "wins": 13,
+      "dist": [
+        5,
+        5,
+        8,
+        4
+      ],
+      "surface": [
+        16,
+        6,
+        0,
+        0
+      ],
+      "races": [
+        {
+          "date": "1972-07-12",
+          "venue": "大井",
+          "race": "未出走",
+          "grade": null,
+          "distanceM": 1000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1972-07-26",
+          "venue": "大井",
+          "race": "53万上",
+          "grade": null,
+          "distanceM": 1000,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1972-09-20",
+          "venue": "大井",
+          "race": "秋草特別",
+          "grade": null,
+          "distanceM": 1200,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1972-10-09",
+          "venue": "大井",
+          "race": "ゴールドJr",
+          "grade": null,
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1972-11-11",
+          "venue": "大井",
+          "race": "白菊特別",
+          "grade": null,
+          "distanceM": 1400,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1972-11-27",
+          "venue": "大井",
+          "race": "青雲賞",
+          "grade": null,
+          "distanceM": 1600,
+          "surface": "dirt",
+          "finish": 1
+        },
+        {
+          "date": "1973-03-04",
+          "venue": "中山",
+          "race": "弥生賞",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1973-03-25",
+          "venue": "中山",
+          "race": "スプリングS",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1973-04-15",
+          "venue": "中山",
+          "race": "皐月賞",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1973-05-06",
+          "venue": "東京",
+          "race": "NHK杯",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1973-05-27",
+          "venue": "東京",
+          "race": "東京優駿",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1973-10-21",
+          "venue": "京都",
+          "race": "京都新聞杯",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1973-11-11",
+          "venue": "京都",
+          "race": "菊花賞",
+          "grade": null,
+          "distanceM": 3000,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1973-12-16",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 3
+        },
+        {
+          "date": "1974-01-20",
+          "venue": "東京",
+          "race": "AJCC",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 9
+        },
+        {
+          "date": "1974-03-10",
+          "venue": "中山",
+          "race": "中山記念",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1974-05-05",
+          "venue": "京都",
+          "race": "天皇賞(春)",
+          "grade": null,
+          "distanceM": 3200,
+          "surface": "turf",
+          "finish": 6
+        },
+        {
+          "date": "1974-06-02",
+          "venue": "京都",
+          "race": "宝塚記念",
+          "grade": null,
+          "distanceM": 2200,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1974-06-23",
+          "venue": "中京",
+          "race": "高松宮杯",
+          "grade": null,
+          "distanceM": 2000,
+          "surface": "turf",
+          "finish": 1
+        },
+        {
+          "date": "1974-10-13",
+          "venue": "京都",
+          "race": "京都大賞典",
+          "grade": null,
+          "distanceM": 2400,
+          "surface": "turf",
+          "finish": 4
+        },
+        {
+          "date": "1974-11-09",
+          "venue": "東京",
+          "race": "オープン",
+          "grade": null,
+          "distanceM": 1800,
+          "surface": "turf",
+          "finish": 2
+        },
+        {
+          "date": "1974-12-15",
+          "venue": "中山",
+          "race": "有馬記念",
+          "grade": null,
+          "distanceM": 2500,
+          "surface": "turf",
+          "finish": 2
+        }
+      ]
+    }
+  ],
+  "meetingMerge": {
+    "existingEventMembershipsAdded": [
+      {
+        "date": "2020-11-29",
+        "name": "재팬컵",
+        "addedId": 74
+      },
+      {
+        "date": "1995-12-24",
+        "name": "아리마 기념",
+        "addedId": 120
+      },
+      {
+        "date": "1995-10-29",
+        "name": "천황상(가을)",
+        "addedId": 120
+      },
+      {
+        "date": "1995-06-04",
+        "name": "타카라즈카 기념",
+        "addedId": 120
+      },
+      {
+        "date": "1994-12-25",
+        "name": "아리마 기념",
+        "addedId": 120
+      },
+      {
+        "date": "1994-10-30",
+        "name": "천황상(가을)",
+        "addedId": 120
+      },
+      {
+        "date": "1994-06-12",
+        "name": "타카라즈카 기념",
+        "addedId": 120
+      },
+      {
+        "date": "1993-05-30",
+        "name": "일본 더비",
+        "addedId": 120
+      },
+      {
+        "date": "2020-12-27",
+        "name": "아리마 기념",
+        "addedId": 122
+      },
+      {
+        "date": "2020-11-01",
+        "name": "천황상(가을)",
+        "addedId": 122
+      },
+      {
+        "date": "2020-06-28",
+        "name": "타카라즈카 기념",
+        "addedId": 122
+      },
+      {
+        "date": "2020-04-05",
+        "name": "오사카배",
+        "addedId": 122
+      },
+      {
+        "date": "2018-12-23",
+        "name": "아리마 기념",
+        "addedId": 122
+      },
+      {
+        "date": "2021-12-26",
+        "name": "아리마 기념",
+        "addedId": 139
+      },
+      {
+        "date": "1997-11-16",
+        "name": "마일 챔피언십",
+        "addedId": 143
+      },
+      {
+        "date": "1997-10-26",
+        "name": "천황상(가을)",
+        "addedId": 143
+      },
+      {
+        "date": "1997-06-08",
+        "name": "야스다 기념",
+        "addedId": 143
+      },
+      {
+        "date": "1996-12-22",
+        "name": "아리마 기념",
+        "addedId": 143
+      },
+      {
+        "date": "1996-11-17",
+        "name": "마일 챔피언십",
+        "addedId": 143
+      },
+      {
+        "date": "1996-10-27",
+        "name": "천황상(가을)",
+        "addedId": 143
+      },
+      {
+        "date": "1996-06-09",
+        "name": "야스다 기념",
+        "addedId": 143
+      },
+      {
+        "date": "1995-12-24",
+        "name": "아리마 기념",
+        "addedId": 143
+      },
+      {
+        "date": "1995-10-29",
+        "name": "천황상(가을)",
+        "addedId": 143
+      },
+      {
+        "date": "2021-12-26",
+        "name": "아리마 기념",
+        "addedId": 144
+      },
+      {
+        "date": "2021-10-31",
+        "name": "천황상(가을)",
+        "addedId": 144
+      },
+      {
+        "date": "1999-12-26",
+        "name": "아리마 기념",
+        "addedId": 145
+      },
+      {
+        "date": "1999-08-22",
+        "name": "札幌記念",
+        "addedId": 145
+      },
+      {
+        "date": "2020-11-15",
+        "name": "엘리자베스 여왕배",
+        "addedId": 146
+      }
+    ],
+    "newEvents": [
+      {
+        "date": "2022-11-13",
+        "name": "엘리자베스 여왕배",
+        "grade": "GI",
+        "ids": [
+          74,
+          146
+        ]
+      },
+      {
+        "date": "2022-06-26",
+        "name": "타카라즈카 기념",
+        "grade": "GI",
+        "ids": [
+          74,
+          139,
+          144,
+          146
+        ]
+      },
+      {
+        "date": "2020-10-18",
+        "name": "슈카상",
+        "grade": "GI",
+        "ids": [
+          74,
+          146
+        ]
+      },
+      {
+        "date": "2020-05-24",
+        "name": "오크스",
+        "grade": "GI",
+        "ids": [
+          74,
+          146
+        ]
+      },
+      {
+        "date": "1995-10-08",
+        "name": "毎日王冠",
+        "grade": "GII",
+        "ids": [
+          120,
+          143
+        ]
+      },
+      {
+        "date": "2023-12-24",
+        "name": "아리마 기념",
+        "grade": "GI",
+        "ids": [
+          139,
+          146
+        ]
+      },
+      {
+        "date": "2023-09-24",
+        "name": "オールカマー",
+        "grade": "GII",
+        "ids": [
+          139,
+          146
+        ]
+      },
+      {
+        "date": "2022-12-25",
+        "name": "아리마 기념",
+        "grade": "GI",
+        "ids": [
+          139,
+          144
+        ]
+      },
+      {
+        "date": "2021-05-30",
+        "name": "日本ダービー",
+        "grade": "GI",
+        "ids": [
+          139,
+          144
+        ]
+      },
+      {
+        "date": "2021-04-18",
+        "name": "사츠키상",
+        "grade": "GI",
+        "ids": [
+          139,
+          144
+        ]
+      },
+      {
+        "date": "2022-04-03",
+        "name": "오사카배",
+        "grade": "GI",
+        "ids": [
+          144,
+          146
+        ]
+      }
+    ],
+    "limitation": "Only unique existing date + named race + same grade matches and newly collected horses with same date, named race, venue, grade. Existing single-runner events not enumerated in original dataset cannot be reconstructed exhaustively."
+  }
+}

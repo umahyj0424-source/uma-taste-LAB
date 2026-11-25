@@ -4,7 +4,7 @@ const DB_STORAGE_KEY="tracen-taste-records-v1";
 const RUN_STYLES=["도주","선행","선입","추입"];
 const EDIT_FIELDS=["height","B","H","W","starts","wins","dist","surface","style",...HISTORY_KEYS];
 function asRecord(p) {
-  return {id:p.id,name:p.name,height:p.height,B:p.measurements[0],H:p.measurements[2],W:p.measurements[1],starts:p.starts,wins:p.wins,dist:[...p.dist],surface:[...p.surface],style:p.style??null,...Object.fromEntries(HISTORY_KEYS.map(k=>[k,p[k]??WORDLE_DATA[p.id][k]]))};
+  return {id:p.id,name:p.name,height:p.height,B:p.measurements[0],H:p.measurements[2],W:p.measurements[1],starts:p.starts,wins:p.wins,dist:[...p.dist],surface:[...p.surface],style:p.style??null,...Object.fromEntries(HISTORY_KEYS.map(k=>[k,Object.hasOwn(p,k)?p[k]:WORDLE_DATA[p.id][k]]))};
 }
 let publishedRows=new Map(ROSTER.map(p=>[p.id,asRecord(p)]));
 let localEdits={};
@@ -29,6 +29,7 @@ function validateRecord(row){
   }
   if(row.style!==null && !RUN_STYLES.includes(row.style)) fail("대표 각질을 확인하세요.");
   if(!Number.isInteger(row.birthYear)||!Number.isInteger(row.classicYear)||!Array.isArray(row.g1Titles)||!row.g1Titles.every(t=>typeof t==="string"&&t.trim()))fail("출생·세대·G1 자료를 확인하세요.");
+  if(!["male","mare",null].includes(row.sex))fail("원본마 성별을 확인하세요.");
   row.g1Wins=recordedWins(row.g1Titles);
   return Object.fromEntries(["id","name",...EDIT_FIELDS].map(key=>[key,row[key]]));
 }

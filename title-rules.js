@@ -28,7 +28,7 @@ const DEFAULT_CONFIG={version:2,axes:Object.fromEntries(['B','H','W'].map(k=>[k,
 ['satono','사토노','사토노의 후원자',[66,86],2,10,50],
 ['ruby','단거리 삼인방','태양과 보석과 기적',[83,64,90],3,10,80],
 ['dirt','더트 삼인방','모래 위의 지배자',[95,96,97],3,10,80]
-].map(([id,name,title,ids,min,top,priority])=>({id,name,title,ids,min,top,priority,enabled:true})),history:defaultHistory()};
+].map(([id,name,title,ids,min,top,priority])=>({id,name,title,ids,min,top,priority,enabled:true})),history:defaultHistory(),extra:defaultExtra()};
 let titleConfig=structuredClone(DEFAULT_CONFIG), publishedTitleConfig=structuredClone(DEFAULT_CONFIG), titleWarning='';
 function validateTitleConfig(c){
  const fail=()=>{throw Error('칭호 설정 형식 또는 범위를 확인하세요.');};
@@ -37,7 +37,7 @@ function validateTitleConfig(c){
  if(c?.version!==2||!c.axes||!tiers(c.dominance,100)||!Array.isArray(c.groups)||c.groups.length>300)fail();
  for(const k of ['B','H','W']){const a=c.axes[k];if(!a||!str(a.middle)||!tiers(a.high,10)||!tiers(a.low,10))fail();}
  const keys=new Set();for(const g of c.groups){if(!g||!str(g.id)||keys.has(g.id)||!str(g.name)||!str(g.title)||!Array.isArray(g.ids)||!g.ids.length||new Set(g.ids).size!==g.ids.length||g.ids.some(id=>!ROSTER.some(p=>p.id===id))||!Number.isInteger(g.min)||g.min<1||g.min>g.ids.length||!Number.isInteger(g.top)||g.top<g.min||g.top>10||!Number.isFinite(g.priority)||typeof g.enabled!=='boolean')fail();keys.add(g.id);}
- c={...c,history:validateHistory(c.history||defaultHistory())};
+ c={...c,history:validateHistory(c.history||defaultHistory()),extra:validateExtra(c.extra||defaultExtra())};
  return structuredClone(c);
 }
 function applyTitleConfig(c){titleConfig=validateTitleConfig(c);for(const k of ['B','H','W'])TITLE_RULES[k]=titleConfig.axes[k];}
@@ -48,5 +48,5 @@ async function initializeTitles(){
 function localTitleChanges(){return JSON.stringify(titleConfig)!==JSON.stringify(publishedTitleConfig);}
 function specialTitles(ids,distance,surface,styleVotes){
  const hits=titleConfig.groups.filter(g=>g.enabled).map(g=>({...g,matched:ids.slice(0,g.top).filter(id=>g.ids.includes(id))})).filter(g=>g.matched.length>=g.min).sort((a,b)=>b.priority-a.priority||b.matched.length-a.matched.length||a.id.localeCompare(b.id));
- const traits=[];for(const [labels,values] of [[['단거리','마일','중거리','장거리'],distance],[['잔디','더트','합성','장애물'],surface],[RUN_STYLES,styleVotes]]){const total=values.reduce((a,b)=>a+b,0);if(!total)continue;const max=Math.max(...values);if(values.filter(v=>v===max).length!==1)continue;const pct=max/total*100;const tier=[...titleConfig.dominance].sort((a,b)=>b[0]-a[0]).find(t=>pct>=t[0]);if(tier)traits.push({title:labels[values.indexOf(max)]+' '+tier[1],pct});}return {hits,traits};
+ const traits=[];for(const [labels,values] of [[['단거리','마일','중거리','장거리'],distance],[['잔디','더트','합성','장애물'],surface],[RUN_STYLES,styleVotes]]){const total=values.reduce((a,b)=>a+b,0);if(!total)continue;const max=Math.max(...values);if(values.filter(v=>Math.abs(v-max)<1e-9).length!==1)continue;const pct=max/total*100;const tier=[...titleConfig.dominance].sort((a,b)=>b[0]-a[0]).find(t=>pct>=t[0]);if(tier)traits.push({title:labels[values.indexOf(max)]+' '+tier[1],pct});}return {hits,traits};
 }

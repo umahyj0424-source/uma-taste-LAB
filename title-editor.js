@@ -8,6 +8,12 @@ function renderTitleEditor(){
  function tiers(parent,arr){arr.forEach((t,i)=>{const r=document.createElement('div');r.className='titleEditRow';parent.append(r);field(r,'기준 이상',t[0],v=>t[0]=v,'number').step='any';field(r,'칭호',t[1],v=>t[1]=v);const b=document.createElement('button');b.className='minor';b.textContent='삭제';b.onclick=()=>{arr.splice(i,1);renderTitleEditor();};r.append(b);});const b=document.createElement('button');b.className='minor';b.textContent='단계 추가';b.onclick=()=>{arr.push([1,'새 칭호']);renderTitleEditor();};parent.append(b);}
  for(const k of ['B','H','W']){const a=draftTitles.axes[k],d=section(k+' · 표준편차 기준');field(d,'중앙 문구',a.middle,v=>a.middle=v);for(const dir of ['high','low']){const h=document.createElement('h3');h.textContent=dir==='high'?'상위':'하위';d.append(h);tiers(d,a[dir]);}}
  tiers(section('거리·주로·각질 집중도 (%)'),draftTitles.dominance);
+ const ex=draftTitles.extra;
+ const ad=section('말평 ㅋㅋ · 평균 취향');field(ad,'사용',ex.average.enabled,v=>ex.average.enabled=v,'checkbox');field(ad,'최소 선택 인원',ex.average.minMatches,v=>ex.average.minMatches=v,'number');
+ for(const name of ['단거리','마일','중거리','장거리'])field(ad,'대표 거리 허용 · '+name,ex.average.distances.includes(name),v=>{ex.average.distances=ex.average.distances.filter(x=>x!==name);if(v)ex.average.distances.push(name);},'checkbox');
+ for(const t of ex.average.tiers){const r=document.createElement('div');r.className='titleEditRow';ad.append(r);field(r,'최대 절대 표준편차',t.max,v=>t.max=v,'number').step='any';field(r,'칭호',t.title,v=>t.title=v);field(r,'거리 조건 적용',t.requiresDistance,v=>t.requiresDistance=v,'checkbox');field(r,'우선순위',t.priority,v=>t.priority=v,'number');}
+ const sd=section('원본마 성별 · 티아라 / 클래식');field(sd,'사용',ex.sex.enabled,v=>ex.sex.enabled=v,'checkbox');field(sd,'최소 일치 인원',ex.sex.minMatches,v=>ex.sex.minMatches=v,'number');
+ for(const t of ex.sex.tiers){const r=document.createElement('div');r.className='titleEditRow';sd.append(r);field(r,'일치율 이상 (%)',t[0],v=>t[0]=v,'number').step='any';field(r,'암말 칭호',t[1],v=>t[1]=v);field(r,'수말 칭호',t[2],v=>t[2]=v);field(r,'우선순위',t[3],v=>t[3]=v,'number');}
  const h=draftTitles.history;
  const hd=section('세대 · G1 · 우승 경주 칭호');
  field(hd,'세대·경주 최소 일치 인원',h.minMatches,v=>h.minMatches=v,'number');field(hd,'세대 우선순위',h.generationPriority,v=>h.generationPriority=v,'number');field(hd,'경주 우선순위',h.racePriority,v=>h.racePriority=v,'number');

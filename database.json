@@ -52,7 +52,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 2,
@@ -102,7 +104,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 3,
@@ -155,7 +159,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 4,
@@ -203,7 +209,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 5,
@@ -253,7 +261,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 6,
@@ -305,7 +315,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 7,
@@ -359,7 +371,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 8,
@@ -414,7 +428,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 7
+      "g1Wins": 7,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 9,
@@ -467,7 +483,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 10,
@@ -520,7 +538,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 5
+      "g1Wins": 5,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 11,
@@ -572,7 +592,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 12,
@@ -623,7 +645,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 13,
@@ -675,7 +699,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 14,
@@ -727,7 +753,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 15,
@@ -782,7 +810,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 7
+      "g1Wins": 7,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 16,
@@ -836,7 +866,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 5
+      "g1Wins": 5,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 17,
@@ -891,7 +923,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 7
+      "g1Wins": 7,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 18,
@@ -942,7 +976,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 19,
@@ -997,7 +1033,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 20,
@@ -1048,7 +1086,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 21,
@@ -1100,7 +1140,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 22,
@@ -1151,7 +1193,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 23,
@@ -1203,7 +1247,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 24,
@@ -1256,7 +1302,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 25,
@@ -1308,7 +1356,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 26,
@@ -1358,7 +1408,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 27,
@@ -1408,7 +1460,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 28,
@@ -1456,7 +1510,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 29,
@@ -1507,7 +1563,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 30,
@@ -1558,7 +1616,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 31,
@@ -1608,7 +1668,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 32,
@@ -1658,7 +1720,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 33,
@@ -1711,7 +1775,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 34,
@@ -1761,7 +1827,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 35,
@@ -1812,7 +1880,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 36,
@@ -1863,7 +1933,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 37,
@@ -1914,7 +1986,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 38,
@@ -1965,7 +2039,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 39,
@@ -2015,7 +2091,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 40,
@@ -2065,7 +2143,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 41,
@@ -2077,8 +2157,8 @@
       "starts": 21,
       "wins": 8,
       "dist": [
+        11,
         9,
-        8,
         1,
         0
       ],
@@ -2116,7 +2196,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 42,
@@ -2166,7 +2248,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 43,
@@ -2218,7 +2302,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 44,
@@ -2270,7 +2356,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 45,
@@ -2323,7 +2411,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 46,
@@ -2375,7 +2465,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 47,
@@ -2425,7 +2517,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 48,
@@ -2475,7 +2569,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 49,
@@ -2525,7 +2621,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 50,
@@ -2577,7 +2675,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 51,
@@ -2625,7 +2725,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 52,
@@ -2676,7 +2778,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 53,
@@ -2724,7 +2828,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 54,
@@ -2774,7 +2880,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 55,
@@ -2824,7 +2932,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 56,
@@ -2874,7 +2984,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 57,
@@ -2924,7 +3036,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 58,
@@ -2977,7 +3091,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 5
+      "g1Wins": 5,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 59,
@@ -3025,7 +3141,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 60,
@@ -3075,7 +3193,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 61,
@@ -3123,7 +3243,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 62,
@@ -3171,7 +3293,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 63,
@@ -3222,7 +3346,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 64,
@@ -3272,7 +3398,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 65,
@@ -3320,7 +3448,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 66,
@@ -3371,7 +3501,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 67,
@@ -3426,7 +3558,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 7
+      "g1Wins": 7,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 68,
@@ -3477,7 +3611,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 69,
@@ -3527,7 +3663,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 70,
@@ -3575,7 +3713,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 71,
@@ -3626,7 +3766,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 72,
@@ -3674,7 +3816,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 73,
@@ -3724,7 +3868,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 74,
@@ -3733,16 +3879,16 @@
       "B": 80,
       "H": 82,
       "W": 55,
-      "starts": 0,
-      "wins": 0,
+      "starts": 13,
+      "wins": 5,
       "dist": [
         0,
-        0,
-        0,
+        4,
+        9,
         0
       ],
       "surface": [
-        0,
+        13,
         0,
         0,
         0
@@ -3760,23 +3906,25 @@
       ],
       "aptitudes": {
         "surface": {
-          "turf": "?",
-          "dirt": "?"
+          "turf": "A",
+          "dirt": "G"
         },
         "distance": {
-          "sprint": "?",
-          "mile": "?",
-          "middle": "?",
-          "long": "?"
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
         },
         "style": {
-          "front": "?",
-          "pace": "?",
-          "late": "?",
-          "end": "?"
+          "front": "G",
+          "pace": "D",
+          "late": "A",
+          "end": "F"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 75,
@@ -3827,7 +3975,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 76,
@@ -3877,7 +4027,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 77,
@@ -3928,7 +4080,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 78,
@@ -3982,7 +4136,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 79,
@@ -4034,7 +4190,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 80,
@@ -4085,7 +4243,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 81,
@@ -4136,7 +4296,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 82,
@@ -4186,7 +4348,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 83,
@@ -4237,7 +4401,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 84,
@@ -4289,7 +4455,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 85,
@@ -4339,7 +4507,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 86,
@@ -4390,7 +4560,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 87,
@@ -4440,7 +4612,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 88,
@@ -4491,7 +4665,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 89,
@@ -4541,7 +4717,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 90,
@@ -4589,7 +4767,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 91,
@@ -4640,7 +4820,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 92,
@@ -4691,7 +4873,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 93,
@@ -4741,7 +4925,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 94,
@@ -4793,7 +4979,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 95,
@@ -4848,7 +5036,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 11
+      "g1Wins": 11,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 96,
@@ -4903,7 +5093,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 10
+      "g1Wins": 10,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 97,
@@ -4955,7 +5147,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 98,
@@ -4964,19 +5158,19 @@
       "B": 72,
       "H": 72,
       "W": 51,
-      "starts": 0,
-      "wins": 0,
+      "starts": 35,
+      "wins": 4,
       "dist": [
-        0,
-        0,
-        0,
-        0
+        14,
+        6,
+        6,
+        9
       ],
       "surface": [
+        24,
+        3,
         0,
-        0,
-        0,
-        0
+        8
       ],
       "style": null,
       "wordleId": 101,
@@ -5003,7 +5197,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 99,
@@ -5051,7 +5247,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 100,
@@ -5099,7 +5297,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 101,
@@ -5150,7 +5350,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 102,
@@ -5201,7 +5403,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 103,
@@ -5253,7 +5457,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 104,
@@ -5304,7 +5510,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 105,
@@ -5355,7 +5563,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 106,
@@ -5406,7 +5616,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 107,
@@ -5420,7 +5632,7 @@
       "dist": [
         0,
         3,
-        2,
+        3,
         0
       ],
       "surface": [
@@ -5457,7 +5669,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 108,
@@ -5507,7 +5721,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 109,
@@ -5555,7 +5771,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 110,
@@ -5605,7 +5823,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 111,
@@ -5660,7 +5880,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 112,
@@ -5714,7 +5936,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 113,
@@ -5769,7 +5993,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 7
+      "g1Wins": 7,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 114,
@@ -5817,7 +6043,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 115,
@@ -5867,7 +6095,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 116,
@@ -5919,7 +6149,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 117,
@@ -5969,7 +6201,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 118,
@@ -6020,7 +6254,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 119,
@@ -6071,7 +6307,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 120,
@@ -6080,17 +6318,17 @@
       "B": 84,
       "H": 84,
       "W": 56,
-      "starts": 0,
-      "wins": 0,
+      "starts": 21,
+      "wins": 9,
       "dist": [
-        0,
-        0,
-        0,
-        0
+        1,
+        9,
+        9,
+        2
       ],
       "surface": [
-        0,
-        0,
+        20,
+        1,
         0,
         0
       ],
@@ -6121,7 +6359,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 121,
@@ -6171,7 +6411,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 122,
@@ -6180,16 +6422,16 @@
       "B": 93,
       "H": 90,
       "W": 63,
-      "starts": 0,
-      "wins": 0,
+      "starts": 18,
+      "wins": 7,
       "dist": [
         0,
-        0,
-        0,
-        0
+        2,
+        12,
+        4
       ],
       "surface": [
-        0,
+        18,
         0,
         0,
         0
@@ -6221,7 +6463,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 123,
@@ -6277,7 +6521,9 @@
           "end": "D"
         }
       },
-      "g1Wins": 9
+      "g1Wins": 9,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 124,
@@ -6329,7 +6575,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 125,
@@ -6383,7 +6631,9 @@
           "end": "B"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 6,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 126,
@@ -6397,7 +6647,7 @@
       "dist": [
         0,
         4,
-        9,
+        10,
         2
       ],
       "surface": [
@@ -6436,7 +6686,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 127,
@@ -6488,7 +6740,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 4
+      "g1Wins": 4,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 128,
@@ -6536,7 +6790,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 0
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 129,
@@ -6586,7 +6842,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 130,
@@ -6600,7 +6858,7 @@
       "dist": [
         0,
         5,
-        6,
+        8,
         1
       ],
       "surface": [
@@ -6636,7 +6894,9 @@
           "end": "F"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 131,
@@ -6686,7 +6946,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 132,
@@ -6695,17 +6957,17 @@
       "B": 90,
       "H": 89,
       "W": 60,
-      "starts": 0,
-      "wins": 0,
+      "starts": 17,
+      "wins": 12,
       "dist": [
         0,
-        0,
-        0,
+        7,
+        10,
         0
       ],
       "surface": [
         0,
-        0,
+        17,
         0,
         0
       ],
@@ -6720,7 +6982,8 @@
         "재팬 더트 클래식(JpnI)",
         "도쿄 대상전(GI)",
         "사우디 컵(2회, GI)",
-        "브리더스컵 클래식(GI)"
+        "브리더스컵 클래식(GI)",
+        "자키 클럽 골드 컵(G1)"
       ],
       "aptitudes": {
         "surface": {
@@ -6740,7 +7003,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 6
+      "g1Wins": 7,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 133,
@@ -6749,17 +7014,17 @@
       "B": 90,
       "H": 89,
       "W": 59,
-      "starts": 0,
-      "wins": 0,
+      "starts": 22,
+      "wins": 9,
       "dist": [
         0,
-        0,
-        0,
+        14,
+        8,
         0
       ],
       "surface": [
-        0,
-        0,
+        12,
+        10,
         0,
         0
       ],
@@ -6790,7 +7055,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 134,
@@ -6825,23 +7092,25 @@
       ],
       "aptitudes": {
         "surface": {
-          "turf": "?",
-          "dirt": "?"
+          "turf": "A",
+          "dirt": "G"
         },
         "distance": {
-          "sprint": "?",
-          "mile": "?",
-          "middle": "?",
-          "long": "?"
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
         },
         "style": {
-          "front": "?",
-          "pace": "?",
-          "late": "?",
-          "end": "?"
+          "front": "D",
+          "pace": "A",
+          "late": "B",
+          "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 135,
@@ -6850,17 +7119,17 @@
       "B": 83,
       "H": 84,
       "W": 56,
-      "starts": 0,
-      "wins": 0,
+      "starts": 30,
+      "wins": 6,
       "dist": [
-        0,
-        0,
-        0,
+        4,
+        18,
+        8,
         0
       ],
       "surface": [
-        0,
-        0,
+        29,
+        1,
         0,
         0
       ],
@@ -6893,7 +7162,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 136,
@@ -6945,7 +7216,9 @@
           "end": "E"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 137,
@@ -6980,23 +7253,25 @@
       ],
       "aptitudes": {
         "surface": {
-          "turf": "?",
-          "dirt": "?"
+          "turf": "A",
+          "dirt": "G"
         },
         "distance": {
-          "sprint": "?",
-          "mile": "?",
-          "middle": "?",
-          "long": "?"
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "C"
         },
         "style": {
-          "front": "?",
-          "pace": "?",
-          "late": "?",
-          "end": "?"
+          "front": "G",
+          "pace": "A",
+          "late": "B",
+          "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 138,
@@ -7046,7 +7321,9 @@
           "end": "A"
         }
       },
-      "g1Wins": 1
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 139,
@@ -7055,16 +7332,16 @@
       "B": 79,
       "H": 83,
       "W": 54,
-      "starts": 0,
-      "wins": 0,
+      "starts": 19,
+      "wins": 7,
       "dist": [
         0,
-        0,
-        0,
-        0
+        2,
+        9,
+        8
       ],
       "surface": [
-        0,
+        19,
         0,
         0,
         0
@@ -7098,7 +7375,9 @@
           "end": "?"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 140,
@@ -7150,7 +7429,9 @@
           "end": "C"
         }
       },
-      "g1Wins": 3
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
     },
     {
       "id": 141,
@@ -7200,7 +7481,9 @@
           "end": "G"
         }
       },
-      "g1Wins": 2
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "mare"
     },
     {
       "id": 142,
@@ -7254,7 +7537,422 @@
           "end": "G"
         }
       },
-      "g1Wins": 9
+      "g1Wins": 9,
+      "g1Eligible": true,
+      "sex": "male"
+    },
+    {
+      "id": 143,
+      "name": "제뉴인",
+      "height": 157,
+      "B": 87,
+      "H": 86,
+      "W": 58,
+      "starts": 21,
+      "wins": 5,
+      "dist": [
+        2,
+        10,
+        7,
+        2
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 1992,
+      "classicYear": 1995,
+      "birthday": "4월 28일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "사츠키상",
+        "마일 챔피언십"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 2,
+      "g1Eligible": true,
+      "sex": "male"
+    },
+    {
+      "id": 144,
+      "name": "에프포리아",
+      "height": 164,
+      "B": 85,
+      "H": 86,
+      "W": 57,
+      "starts": 11,
+      "wins": 6,
+      "dist": [
+        0,
+        1,
+        8,
+        2
+      ],
+      "surface": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 2018,
+      "classicYear": 2021,
+      "birthday": "3월 10일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "사츠키상",
+        "천황상(가을)",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "male"
+    },
+    {
+      "id": 145,
+      "name": "팔레놉시스",
+      "height": 151,
+      "B": 76,
+      "H": 78,
+      "W": 53,
+      "starts": 16,
+      "wins": 7,
+      "dist": [
+        3,
+        5,
+        7,
+        1
+      ],
+      "surface": [
+        15,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "4월 4일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "오카상",
+        "슈카상",
+        "엘리자베스 여왕배"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 3,
+      "g1Eligible": true,
+      "sex": "mare"
+    },
+    {
+      "id": 146,
+      "name": "윈 마릴린",
+      "height": 158,
+      "B": 86,
+      "H": 85,
+      "W": 56,
+      "starts": 22,
+      "wins": 6,
+      "dist": [
+        0,
+        1,
+        17,
+        4
+      ],
+      "surface": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 2017,
+      "classicYear": 2020,
+      "birthday": "5월 23일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "홍콩 바즈(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 1,
+      "g1Eligible": true,
+      "sex": "mare"
+    },
+    {
+      "id": 147,
+      "name": "카지노 드라이브",
+      "height": null,
+      "B": null,
+      "H": null,
+      "W": null,
+      "starts": 11,
+      "wins": 4,
+      "dist": [
+        2,
+        6,
+        3,
+        0
+      ],
+      "surface": [
+        0,
+        9,
+        2,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 2005,
+      "classicYear": 2008,
+      "birthday": null,
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 0,
+      "g1Eligible": true,
+      "sex": "male"
+    },
+    {
+      "id": 148,
+      "name": "세인트 라이트",
+      "height": null,
+      "B": null,
+      "H": null,
+      "W": null,
+      "starts": 12,
+      "wins": 9,
+      "dist": [
+        0,
+        1,
+        9,
+        2
+      ],
+      "surface": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 1938,
+      "classicYear": 1941,
+      "birthday": null,
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 0,
+      "g1Eligible": false,
+      "sex": "male"
+    },
+    {
+      "id": 149,
+      "name": "스피드 심볼리",
+      "height": null,
+      "B": null,
+      "H": null,
+      "W": null,
+      "starts": 43,
+      "wins": 17,
+      "dist": [
+        4,
+        7,
+        12,
+        20
+      ],
+      "surface": [
+        42,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 1963,
+      "classicYear": 1966,
+      "birthday": null,
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 0,
+      "g1Eligible": false,
+      "sex": "male"
+    },
+    {
+      "id": 150,
+      "name": "하이세이코",
+      "height": null,
+      "B": null,
+      "H": null,
+      "W": null,
+      "starts": 22,
+      "wins": 13,
+      "dist": [
+        5,
+        5,
+        8,
+        4
+      ],
+      "surface": [
+        16,
+        6,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": null,
+      "birthYear": 1970,
+      "classicYear": 1973,
+      "birthday": null,
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 0,
+      "g1Eligible": false,
+      "sex": "male"
     }
   ]
 }
