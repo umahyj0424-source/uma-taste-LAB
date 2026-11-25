@@ -374,6 +374,134 @@
       "top": 10,
       "priority": 95,
       "enabled": true
+    },
+    {
+      "id": "mejiro",
+      "name": "메지로",
+      "title": "메지로 가문의 귀빈",
+      "ids": [
+        13,
+        26,
+        58,
+        63,
+        70,
+        73,
+        84
+      ],
+      "min": 7,
+      "top": 10,
+      "priority": 115,
+      "enabled": true
+    },
+    {
+      "id": "symboli",
+      "name": "심볼리",
+      "title": "황제의 일족",
+      "ids": [
+        17,
+        69,
+        81,
+        149
+      ],
+      "min": 4,
+      "top": 10,
+      "priority": 105,
+      "enabled": true
+    },
+    {
+      "id": "narita",
+      "name": "나리타",
+      "title": "나리타 삼총사",
+      "ids": [
+        16,
+        49,
+        76
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 95,
+      "enabled": true
+    },
+    {
+      "id": "hishi",
+      "name": "히시",
+      "title": "히시 연합",
+      "ids": [
+        12,
+        27,
+        103
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 95,
+      "enabled": true
+    },
+    {
+      "id": "admire",
+      "name": "어드마이어",
+      "title": "어드마이어의 별",
+      "ids": [
+        32,
+        115
+      ],
+      "min": 2,
+      "top": 10,
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "machikane",
+      "name": "마치카네",
+      "title": "마치카네 절찬 영업 중",
+      "ids": [
+        55,
+        61
+      ],
+      "min": 2,
+      "top": 10,
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "agnes",
+      "name": "아그네스",
+      "title": "트레센의 괴짜들",
+      "ids": [
+        31,
+        19
+      ],
+      "min": 2,
+      "top": 10,
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "air",
+      "name": "에어",
+      "title": "에어 군단",
+      "ids": [
+        18,
+        35,
+        108
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 95,
+      "enabled": true
+    },
+    {
+      "id": "city",
+      "name": "시티",
+      "title": "시티 라이프",
+      "ids": [
+        39,
+        142,
+        104
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 95,
+      "enabled": true
     }
   ],
   "history": {
@@ -520,5 +648,5 @@
       ]
     }
   },
-  "groupPack": 2
+  "groupPack": 3
 }

@@ -17,7 +17,7 @@ function titleTrait(key,score) {
 
 // Editable configuration, independent of character records.
 const TITLE_STORAGE='tracen-title-rules-v2';
-const DEFAULT_CONFIG={version:2,groupPack:2,axes:Object.fromEntries(['B','H','W'].map(k=>[k,{...TITLE_RULES[k],high:[[2,'극한 '+TITLE_RULES[k].high[0][1]],...TITLE_RULES[k].high],low:[[2,'극한 '+TITLE_RULES[k].low[0][1]],...TITLE_RULES[k].low]}])),dominance:[[90,'절대주의자'],[75,'일편단심'],[60,'열혈파']],groups:[
+const DEFAULT_CONFIG={version:2,groupPack:3,axes:Object.fromEntries(['B','H','W'].map(k=>[k,{...TITLE_RULES[k],high:[[2,'극한 '+TITLE_RULES[k].high[0][1]],...TITLE_RULES[k].high],low:[[2,'극한 '+TITLE_RULES[k].low[0][1]],...TITLE_RULES[k].low]}])),dominance:[[90,'절대주의자'],[75,'일편단심'],[60,'열혈파']],groups:[
 ['rttt','ROAD TO THE TOP','정상으로 향하는 길',[76,32,15],3,10,100],
 ['movie','새로운 시대의 문','새로운 시대를 여는 자',[91,31,140,89],4,10,100],
 ['bnw','BNW','BNW의 맹세',[23,49,34],3,10,90],
@@ -35,7 +35,16 @@ const DEFAULT_CONFIG={version:2,groupPack:2,axes:Object.fromEntries(['B','H','W'
 ["v-sisters","V자매","자매덮밥 말고 자매응원단",[141,87,88],3,10,100],
 ["gold-family","황금 일족","황금 일족",[129,7,112,116,48,121],6,10,120],
 ["light-speed","광속 추구","빠르면 그만입니다",[40,117],2,10,90],
-["food-bankruptcy","지갑 파산","식비로 파산한 트레이너",[6,1,27],3,10,95]
+["food-bankruptcy","지갑 파산","식비로 파산한 트레이너",[6,1,27],3,10,95],
+["mejiro","메지로","메지로 가문의 귀빈",[13,26,58,63,70,73,84],7,10,115],
+["symboli","심볼리","황제의 일족",[17,69,81,149],4,10,105],
+["narita","나리타","나리타 삼총사",[16,49,76],3,10,95],
+["hishi","히시","히시 연합",[12,27,103],3,10,95],
+["admire","어드마이어","어드마이어의 별",[32,115],2,10,85],
+["machikane","마치카네","마치카네 절찬 영업 중",[55,61],2,10,85],
+["agnes","아그네스","트레센의 괴짜들",[31,19],2,10,85],
+["air","에어","에어 군단",[18,35,108],3,10,95],
+["city","시티","시티 라이프",[39,142,104],3,10,95]
 ].map(([id,name,title,ids,min,top,priority])=>({id,name,title,ids,min,top,priority,enabled:true})),history:defaultHistory(),extra:defaultExtra()};
 let titleConfig=structuredClone(DEFAULT_CONFIG), publishedTitleConfig=structuredClone(DEFAULT_CONFIG), titleWarning='';
 function validateTitleConfig(c){
@@ -49,9 +58,10 @@ function validateTitleConfig(c){
  return structuredClone(c);
 }
 function migrateGroupPack(c){
- if(c.groupPack>=2)return c;
- const newIds=[...(c.groupPack===1?[]:['gyaru','gyaru-strict','sakura']),"canopus","v-sisters","gold-family","light-speed","food-bankruptcy"];
- return {...c,groupPack:2,groups:[...c.groups,...DEFAULT_CONFIG.groups.filter(g=>newIds.includes(g.id)&&!c.groups.some(x=>x.id===g.id))]};
+ if(c.groupPack>=3)return c;
+ const pack=Number(c.groupPack)||0;
+ const newIds=[...(pack<1?['gyaru','gyaru-strict','sakura']:[]),...(pack<2?['canopus','v-sisters','gold-family','light-speed','food-bankruptcy']:[]),...["mejiro", "symboli", "narita", "hishi", "admire", "machikane", "agnes", "air", "city"]];
+ return {...c,groupPack:3,groups:[...c.groups,...DEFAULT_CONFIG.groups.filter(g=>newIds.includes(g.id)&&!c.groups.some(x=>x.id===g.id))]};
 }
 function applyTitleConfig(c){titleConfig=validateTitleConfig(c);for(const k of ['B','H','W'])TITLE_RULES[k]=titleConfig.axes[k];}
 async function initializeTitles(){
