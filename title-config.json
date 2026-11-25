@@ -250,6 +250,130 @@
       "top": 10,
       "priority": 80,
       "enabled": true
+    },
+    {
+      "id": "gyaru",
+      "name": "갸루 계열",
+      "title": "갸루 애호가",
+      "ids": [
+        47,
+        39,
+        64,
+        63,
+        142,
+        132,
+        110
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "gyaru-strict",
+      "name": "갸루 계열",
+      "title": "가루 원리원칙주의자",
+      "ids": [
+        47,
+        39,
+        64,
+        63,
+        142,
+        132,
+        110
+      ],
+      "min": 6,
+      "top": 10,
+      "priority": 120,
+      "enabled": true
+    },
+    {
+      "id": "sakura",
+      "name": "사쿠라 군단",
+      "title": "무적의 사쿠라군단!",
+      "ids": [
+        40,
+        68,
+        75,
+        120
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 110,
+      "enabled": true
+    },
+    {
+      "id": "canopus",
+      "name": "카노푸스",
+      "title": "G1이 전부는 아니니까",
+      "ids": [
+        59,
+        65,
+        62,
+        61
+      ],
+      "min": 4,
+      "top": 10,
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "v-sisters",
+      "name": "V자매",
+      "title": "자매덮밥 말고 자매응원단",
+      "ids": [
+        141,
+        87,
+        88
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "gold-family",
+      "name": "황금 일족",
+      "title": "황금 일족",
+      "ids": [
+        129,
+        7,
+        112,
+        116,
+        48,
+        121
+      ],
+      "min": 6,
+      "top": 10,
+      "priority": 120,
+      "enabled": true
+    },
+    {
+      "id": "light-speed",
+      "name": "광속 추구",
+      "title": "빠르면 그만입니다",
+      "ids": [
+        40,
+        117
+      ],
+      "min": 2,
+      "top": 10,
+      "priority": 90,
+      "enabled": true
+    },
+    {
+      "id": "food-bankruptcy",
+      "name": "지갑 파산",
+      "title": "식비로 파산한 트레이너",
+      "ids": [
+        6,
+        1,
+        27
+      ],
+      "min": 3,
+      "top": 10,
+      "priority": 95,
+      "enabled": true
     }
   ],
   "history": {
@@ -395,5 +519,6 @@
         ]
       ]
     }
-  }
+  },
+  "groupPack": 2
 }

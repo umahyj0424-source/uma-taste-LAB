@@ -17,7 +17,7 @@ function titleTrait(key,score) {
 
 // Editable configuration, independent of character records.
 const TITLE_STORAGE='tracen-title-rules-v2';
-const DEFAULT_CONFIG={version:2,axes:Object.fromEntries(['B','H','W'].map(k=>[k,{...TITLE_RULES[k],high:[[2,'극한 '+TITLE_RULES[k].high[0][1]],...TITLE_RULES[k].high],low:[[2,'극한 '+TITLE_RULES[k].low[0][1]],...TITLE_RULES[k].low]}])),dominance:[[90,'절대주의자'],[75,'일편단심'],[60,'열혈파']],groups:[
+const DEFAULT_CONFIG={version:2,groupPack:2,axes:Object.fromEntries(['B','H','W'].map(k=>[k,{...TITLE_RULES[k],high:[[2,'극한 '+TITLE_RULES[k].high[0][1]],...TITLE_RULES[k].high],low:[[2,'극한 '+TITLE_RULES[k].low[0][1]],...TITLE_RULES[k].low]}])),dominance:[[90,'절대주의자'],[75,'일편단심'],[60,'열혈파']],groups:[
 ['rttt','ROAD TO THE TOP','정상으로 향하는 길',[76,32,15],3,10,100],
 ['movie','새로운 시대의 문','새로운 시대를 여는 자',[91,31,140,89],4,10,100],
 ['bnw','BNW','BNW의 맹세',[23,49,34],3,10,90],
@@ -27,7 +27,15 @@ const DEFAULT_CONFIG={version:2,axes:Object.fromEntries(['B','H','W'].map(k=>[k,
 ['s3','애니메이션 3기','꿈을 잇는 트레이너',[67,66],2,10,50],
 ['satono','사토노','사토노의 후원자',[66,86],2,10,50],
 ['ruby','단거리 삼인방','태양과 보석과 기적',[83,64,90],3,10,80],
-['dirt','더트 삼인방','모래 위의 지배자',[95,96,97],3,10,80]
+['dirt','더트 삼인방','모래 위의 지배자',[95,96,97],3,10,80],
+["gyaru","갸루 계열","갸루 애호가",[47,39,64,63,142,132,110],3,10,85],
+["gyaru-strict","갸루 계열","가루 원리원칙주의자",[47,39,64,63,142,132,110],6,10,120],
+["sakura","사쿠라 군단","무적의 사쿠라군단!",[40,68,75,120],3,10,110],
+["canopus","카노푸스","G1이 전부는 아니니까",[59,65,62,61],4,10,100],
+["v-sisters","V자매","자매덮밥 말고 자매응원단",[141,87,88],3,10,100],
+["gold-family","황금 일족","황금 일족",[129,7,112,116,48,121],6,10,120],
+["light-speed","광속 추구","빠르면 그만입니다",[40,117],2,10,90],
+["food-bankruptcy","지갑 파산","식비로 파산한 트레이너",[6,1,27],3,10,95]
 ].map(([id,name,title,ids,min,top,priority])=>({id,name,title,ids,min,top,priority,enabled:true})),history:defaultHistory(),extra:defaultExtra()};
 let titleConfig=structuredClone(DEFAULT_CONFIG), publishedTitleConfig=structuredClone(DEFAULT_CONFIG), titleWarning='';
 function validateTitleConfig(c){
@@ -40,10 +48,15 @@ function validateTitleConfig(c){
  c={...c,history:validateHistory(c.history||defaultHistory()),extra:validateExtra(c.extra||defaultExtra())};
  return structuredClone(c);
 }
+function migrateGroupPack(c){
+ if(c.groupPack>=2)return c;
+ const newIds=[...(c.groupPack===1?[]:['gyaru','gyaru-strict','sakura']),"canopus","v-sisters","gold-family","light-speed","food-bankruptcy"];
+ return {...c,groupPack:2,groups:[...c.groups,...DEFAULT_CONFIG.groups.filter(g=>newIds.includes(g.id)&&!c.groups.some(x=>x.id===g.id))]};
+}
 function applyTitleConfig(c){titleConfig=validateTitleConfig(c);for(const k of ['B','H','W'])TITLE_RULES[k]=titleConfig.axes[k];}
 async function initializeTitles(){
- if(/^https?:$/.test(location.protocol)){try{const r=await fetch('./title-config.json',{cache:'no-cache',signal:AbortSignal.timeout(8000)});if(!r.ok)throw Error();publishedTitleConfig=validateTitleConfig(await r.json());}catch{titleWarning='배포 설정을 읽지 못해 기본값을 사용합니다.';}}
- applyTitleConfig(publishedTitleConfig);try{const s=localStorage.getItem(TITLE_STORAGE);if(s)applyTitleConfig(JSON.parse(s));}catch{titleWarning+=' 로컬 칭호 설정을 읽지 못했습니다.';}
+ if(/^https?:$/.test(location.protocol)){try{const r=await fetch('./title-config.json',{cache:'no-cache',signal:AbortSignal.timeout(8000)});if(!r.ok)throw Error();publishedTitleConfig=validateTitleConfig(migrateGroupPack(validateTitleConfig(await r.json())));}catch{titleWarning='배포 설정을 읽지 못해 기본값을 사용합니다.';}}
+ applyTitleConfig(publishedTitleConfig);try{const s=localStorage.getItem(TITLE_STORAGE);if(s){const old=validateTitleConfig(JSON.parse(s));const migrated=migrateGroupPack(old);applyTitleConfig(migrated);if(old.groupPack!==migrated.groupPack)localStorage.setItem(TITLE_STORAGE,JSON.stringify(migrated));}}catch{titleWarning+=' 로컬 칭호 설정을 읽지 못했습니다.';}
 }
 function localTitleChanges(){return JSON.stringify(titleConfig)!==JSON.stringify(publishedTitleConfig);}
 function specialTitles(ids,distance,surface,styleVotes){

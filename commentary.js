@@ -15,7 +15,15 @@ const REVIEW_LINES = {
     s3:["키타산 블랙과 사토노 다이아몬드가 한 라인업에 있습니다. 꿈을 잇는 조합이군요."],
     satono:["사토노 가문 조합이 완성됐습니다. 후원 담당 부서에도 알려두겠습니다."],
     ruby:["단거리의 세 주역이 한곳에 모였습니다. 짧은 거리라고 서사까지 짧은 건 아니죠."],
-    dirt:["더트의 주역들이 모였습니다. 모래 코스 예약부터 확인하겠습니다."]
+    dirt:["더트의 주역들이 모였습니다. 모래 코스 예약부터 확인하겠습니다."],
+    gyaru:["트레삐 취향 완전 확고한데? 웨이~!"],
+    "gyaru-strict":["트레삐 취향 완전 확고한데? 웨이~!"],
+    sakura:["벚꽃 만개! 무적의 사쿠라군단, 박신 앞으로!"],
+    "canopus":["우승 횟수만으로는 설명할 수 없는 매력이 있죠. 카노푸스, 오늘도 파이팅!"],
+    "v-sisters":["V자매가 모두 모였습니다. 오늘도 세 자매를 함께 응원하는군요!"],
+    "gold-family":["황금 일족이 전원 집결했습니다. 평범하게 끝날 레이스는 없겠군요."],
+    "light-speed":["광속을 향해 박신! 긴 설명은 생략합니다."],
+    "food-bankruptcy":["세 명의 식사부터 준비하세요. 식비는 생각하지 않는 편이 좋겠습니다."]
   },
   average:["B/H/W의 선택 평균이 모두 기준 평균에 가깝습니다. 숫자만 보면 교과서적인 조합입니다.","프로필 평균이 세 항목 모두 중앙 구간에 있습니다. 통계 담당자가 특별한 결론을 찾지 못했습니다."],
   distance:{
@@ -53,7 +61,7 @@ function tasteReview(r){
   const gen=r.history.generations[0], race=r.history.races[0];
   const avgHit=r.history.hits.find(h=>h.name==='평균 취향');
   const intro=pick(groups.length?REVIEW_LINES.introGroup:allAvg?REVIEW_LINES.introAverage:(d!==null&&r.distance[d]>=60||st!==null&&r.style.percentages[st]>=75&&r.style.known>=3||gen?.[1]/n>=.8)?REVIEW_LINES.introFocused:REVIEW_LINES.introMixed);
-  if(groups.length){const group=groups[0];const known=DEFAULT_CONFIG.groups.find(g=>g.id===group.id);const canonical=known&&group.ids.length===known.ids.length&&group.ids.every(id=>known.ids.includes(id))&&group.matched.length===known.ids.length;add(canonical&&REVIEW_LINES.group[group.id]?pick(REVIEW_LINES.group[group.id]):`${group.name} 조합의 조건을 충족했습니다 (${group.matched.length}/${group.ids.length}명). 함께 모인 이름들을 살펴보세요.`,group.name);}
+  if(groups.length){const group=groups[0];const known=DEFAULT_CONFIG.groups.find(g=>g.id===group.id);const canonical=known&&group.ids.length===known.ids.length&&group.ids.every(id=>known.ids.includes(id))&&(group.matched.length===known.ids.length||(["gyaru","gyaru-strict","sakura"].includes(group.id)&&group.matched.length>=known.min));add(canonical&&REVIEW_LINES.group[group.id]?pick(REVIEW_LINES.group[group.id]):`${group.name} 조합의 조건을 충족했습니다 (${group.matched.length}/${group.ids.length}명). 함께 모인 이름들을 살펴보세요.`,group.name);}
   if(allAvg){add(pick(REVIEW_LINES.average),avgHit?'평균 취향':'평균형');const suspect=axes.flatMap(a=>a.suspects||[]);if(suspect.length){const p=suspect.reduce((a,b)=>Math.abs(b.delta)>Math.abs(a.delta)?b:a);add(`그런데 평균과의 차이가 가장 큰 항목별 기록을 찾아보니 ${p.name}이 눈에 띕니다. 범인 찾기에서 확인해 보세요.`);}}
   if(d!==null&&r.distance[d]>0){add(pick(REVIEW_LINES.distance[DISTANCES[d]])+` (순위 가중 출전 비율 ${r.distance[d].toFixed(1)}%)`,DISTANCES[d]);}
   else if(leaders(r.distance).length>1)add(`거리별 출전 비율은 ${leaders(r.distance).map(i=>DISTANCES[i]).join('·')} 공동 1위입니다.`,'거리 공동 1위');
