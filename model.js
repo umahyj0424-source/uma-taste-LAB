@@ -149,6 +149,7 @@ function makeReport(ids, chosenTitle) {
   result.recommendedTitle=title;
   result.titleChoices=titleChoices(result,title);
   if(result.titleChoices.some(t=>t.title===chosenTitle)) result.title=chosenTitle;
+  result.review=tasteReview(result);
   return result;
 }
 function cleanNick(value) {

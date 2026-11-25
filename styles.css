@@ -15,3 +15,16 @@
 
 .titlePicker{display:grid;gap:6px;max-width:100%;margin:14px 0 18px}.titlePicker label{font-size:.9rem;font-weight:800;color:#d8ff87}.titlePicker select{width:100%;max-width:100%;min-width:0;padding:10px 12px;border:1px solid #d4c6ef;border-radius:8px;background:#fff;color:#30215d;font:inherit;font-weight:700}.titlePicker small{color:#eee4ff;overflow-wrap:anywhere}.reportHero h1{overflow-wrap:anywhere}.memory summary{cursor:pointer;font-weight:700}.memory details p{overflow-wrap:anywhere}
 .rankControls{display:flex;gap:3px;flex:none;align-items:center}.slot .slotName{flex:1;min-width:0;overflow-wrap:anywhere}.rankControls .rankMove{margin:0;width:30px;height:32px;padding:0;border:1px solid #d9d0e8;border-radius:5px;background:#f5f0fc;color:#432787;font-weight:800;flex:none}.rankControls .rankMove:disabled{opacity:.28}.slot .rankControls{margin-left:0}.mini .rankControls{justify-content:center;margin-top:5px}.suspectBox{margin:18px 0 4px;padding:14px;border:1px solid #ded4ef;border-radius:8px;background:#faf7ff}.suspectBox h3{margin:0 0 5px}.suspectBox .method{margin:0 0 12px}.suspectAxis{padding:10px 0;border-top:1px solid #e5deed}.suspectPerson{display:flex;align-items:center;gap:10px;margin-top:8px}.suspectPerson img{width:42px;height:42px;object-fit:cover;object-position:top;background:#e8e1f4;border-radius:5px}.suspectPerson small{display:block;color:#685f77;margin-top:3px}.suspectPerson strong{font-size:.95rem}.slot{gap:5px}@media(max-width:760px){.rankControls .rankMove{width:36px;height:36px}}
+
+/* v10: conditional narrative report */
+.reviewBox{margin:24px 0 16px;background:#211a39;color:#f2eef9;border-radius:14px;border-left:5px solid #a381ea;padding:24px 25px;overflow-wrap:anywhere;line-height:1.7}
+.reviewBox .overline{color:#c5aaff;font-size:11px;letter-spacing:1.4px}
+.reviewBox h3{color:#c5aaff;font-size:16px;margin:5px 0 12px}
+.reviewTags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 15px}
+.reviewTags span{font-size:12px;background:#352b52;color:#e0d1ff;border:1px solid #55436e;padding:4px 9px;border-radius:5px}
+.reviewBox .reviewIntro{font-size:20px;font-weight:800;color:#fff;margin:10px 0 12px;line-height:1.5}
+.reviewBox ul{margin:0;padding-left:1.35em;color:#e7e4f0;font-size:15px}
+.reviewBox li+li{margin-top:9px}.reviewBox .reviewNote{font-size:17px;font-weight:600;line-height:1.65;color:#e5dcf5;margin:16px 0 0}
+.reviewBox .reviewOutro{margin:18px 0 7px;padding-top:14px;border-top:1px solid #4c3e64;font-weight:700;color:#d2ff83}
+.reviewBox small{font-size:11px;color:#c6bcd8}
+@media(max-width:560px){.reviewBox{padding:17px 15px}.reviewBox .reviewIntro{font-size:17px}.reviewBox ul{font-size:14px}}
