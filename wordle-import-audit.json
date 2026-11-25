@@ -1,0 +1,878 @@
+{
+  "source": "https://github.com/umahyj0424-source/UMA-WORDLE/blob/main/data/default_characters.json",
+  "mapping": [
+    {
+      "tasteId": 1,
+      "wordleId": 1,
+      "name": "스페셜 위크"
+    },
+    {
+      "tasteId": 2,
+      "wordleId": 2,
+      "name": "사일런스 스즈카"
+    },
+    {
+      "tasteId": 3,
+      "wordleId": 3,
+      "name": "토카이 테이오"
+    },
+    {
+      "tasteId": 4,
+      "wordleId": 4,
+      "name": "마루젠스키"
+    },
+    {
+      "tasteId": 5,
+      "wordleId": 5,
+      "name": "후지 키세키"
+    },
+    {
+      "tasteId": 6,
+      "wordleId": 6,
+      "name": "오구리 캡"
+    },
+    {
+      "tasteId": 7,
+      "wordleId": 7,
+      "name": "골드 쉽"
+    },
+    {
+      "tasteId": 8,
+      "wordleId": 8,
+      "name": "보드카"
+    },
+    {
+      "tasteId": 9,
+      "wordleId": 9,
+      "name": "다이와 스칼렛"
+    },
+    {
+      "tasteId": 10,
+      "wordleId": 10,
+      "name": "타이키 셔틀"
+    },
+    {
+      "tasteId": 11,
+      "wordleId": 11,
+      "name": "그래스 원더"
+    },
+    {
+      "tasteId": 12,
+      "wordleId": 12,
+      "name": "히시 아마존"
+    },
+    {
+      "tasteId": 13,
+      "wordleId": 13,
+      "name": "메지로 맥퀸"
+    },
+    {
+      "tasteId": 14,
+      "wordleId": 14,
+      "name": "엘 콘도르 파사"
+    },
+    {
+      "tasteId": 15,
+      "wordleId": 15,
+      "name": "티엠 오페라 오"
+    },
+    {
+      "tasteId": 16,
+      "wordleId": 16,
+      "name": "나리타 브라이언"
+    },
+    {
+      "tasteId": 17,
+      "wordleId": 17,
+      "name": "심볼리 루돌프"
+    },
+    {
+      "tasteId": 18,
+      "wordleId": 18,
+      "name": "에어 그루브"
+    },
+    {
+      "tasteId": 19,
+      "wordleId": 19,
+      "name": "아그네스 디지털"
+    },
+    {
+      "tasteId": 20,
+      "wordleId": 20,
+      "name": "세이운 스카이"
+    },
+    {
+      "tasteId": 21,
+      "wordleId": 21,
+      "name": "타마모 크로스"
+    },
+    {
+      "tasteId": 22,
+      "wordleId": 22,
+      "name": "파인 모션"
+    },
+    {
+      "tasteId": 23,
+      "wordleId": 23,
+      "name": "비와 하야히데"
+    },
+    {
+      "tasteId": 24,
+      "wordleId": 24,
+      "name": "마야노 탑건"
+    },
+    {
+      "tasteId": 140,
+      "wordleId": 25,
+      "name": "맨하탄 카페"
+    },
+    {
+      "tasteId": 25,
+      "wordleId": 26,
+      "name": "미호노 부르봉"
+    },
+    {
+      "tasteId": 26,
+      "wordleId": 27,
+      "name": "메지로 라이언"
+    },
+    {
+      "tasteId": 27,
+      "wordleId": 28,
+      "name": "히시 아케보노"
+    },
+    {
+      "tasteId": 28,
+      "wordleId": 29,
+      "name": "유키노 비진"
+    },
+    {
+      "tasteId": 29,
+      "wordleId": 30,
+      "name": "라이스 샤워"
+    },
+    {
+      "tasteId": 30,
+      "wordleId": 31,
+      "name": "아이네스 후진"
+    },
+    {
+      "tasteId": 31,
+      "wordleId": 32,
+      "name": "아그네스 타키온"
+    },
+    {
+      "tasteId": 32,
+      "wordleId": 33,
+      "name": "어드마이어 베가"
+    },
+    {
+      "tasteId": 33,
+      "wordleId": 34,
+      "name": "이나리 원"
+    },
+    {
+      "tasteId": 34,
+      "wordleId": 35,
+      "name": "위닝 티켓"
+    },
+    {
+      "tasteId": 35,
+      "wordleId": 36,
+      "name": "에어 샤커"
+    },
+    {
+      "tasteId": 36,
+      "wordleId": 37,
+      "name": "에이신 플래시"
+    },
+    {
+      "tasteId": 37,
+      "wordleId": 38,
+      "name": "카렌짱"
+    },
+    {
+      "tasteId": 38,
+      "wordleId": 39,
+      "name": "카와카미 프린세스"
+    },
+    {
+      "tasteId": 39,
+      "wordleId": 40,
+      "name": "골드 시티"
+    },
+    {
+      "tasteId": 40,
+      "wordleId": 41,
+      "name": "사쿠라 바쿠신오"
+    },
+    {
+      "tasteId": 41,
+      "wordleId": 42,
+      "name": "시킹 더 펄"
+    },
+    {
+      "tasteId": 42,
+      "wordleId": 43,
+      "name": "신코 윈디"
+    },
+    {
+      "tasteId": 43,
+      "wordleId": 44,
+      "name": "스윕 토쇼"
+    },
+    {
+      "tasteId": 44,
+      "wordleId": 45,
+      "name": "슈퍼 크릭"
+    },
+    {
+      "tasteId": 45,
+      "wordleId": 46,
+      "name": "스마트 팔콘"
+    },
+    {
+      "tasteId": 46,
+      "wordleId": 47,
+      "name": "젠노 롭 로이"
+    },
+    {
+      "tasteId": 47,
+      "wordleId": 48,
+      "name": "토센 조던"
+    },
+    {
+      "tasteId": 48,
+      "wordleId": 49,
+      "name": "나카야마 페스타"
+    },
+    {
+      "tasteId": 49,
+      "wordleId": 50,
+      "name": "나리타 타이신"
+    },
+    {
+      "tasteId": 50,
+      "wordleId": 51,
+      "name": "니시노 플라워"
+    },
+    {
+      "tasteId": 51,
+      "wordleId": 52,
+      "name": "하루 우라라"
+    },
+    {
+      "tasteId": 52,
+      "wordleId": 53,
+      "name": "뱀부 메모리"
+    },
+    {
+      "tasteId": 53,
+      "wordleId": 54,
+      "name": "비코 페가수스"
+    },
+    {
+      "tasteId": 54,
+      "wordleId": 55,
+      "name": "마블러스 선데이"
+    },
+    {
+      "tasteId": 55,
+      "wordleId": 56,
+      "name": "마치카네 후쿠키타루"
+    },
+    {
+      "tasteId": 56,
+      "wordleId": 57,
+      "name": "미스터 시비"
+    },
+    {
+      "tasteId": 57,
+      "wordleId": 58,
+      "name": "메이쇼 도토"
+    },
+    {
+      "tasteId": 58,
+      "wordleId": 59,
+      "name": "메지로 도베르"
+    },
+    {
+      "tasteId": 59,
+      "wordleId": 60,
+      "name": "나이스 네이처"
+    },
+    {
+      "tasteId": 60,
+      "wordleId": 61,
+      "name": "킹 헤일로"
+    },
+    {
+      "tasteId": 61,
+      "wordleId": 62,
+      "name": "마치카네 탄호이저"
+    },
+    {
+      "tasteId": 62,
+      "wordleId": 63,
+      "name": "이쿠노 딕터스"
+    },
+    {
+      "tasteId": 63,
+      "wordleId": 64,
+      "name": "메지로 파머"
+    },
+    {
+      "tasteId": 64,
+      "wordleId": 65,
+      "name": "다이타쿠 헬리오스"
+    },
+    {
+      "tasteId": 65,
+      "wordleId": 66,
+      "name": "트윈 터보"
+    },
+    {
+      "tasteId": 66,
+      "wordleId": 67,
+      "name": "사토노 다이아몬드"
+    },
+    {
+      "tasteId": 67,
+      "wordleId": 68,
+      "name": "키타산 블랙"
+    },
+    {
+      "tasteId": 68,
+      "wordleId": 69,
+      "name": "사쿠라 치요노오"
+    },
+    {
+      "tasteId": 69,
+      "wordleId": 70,
+      "name": "시리우스 심볼리"
+    },
+    {
+      "tasteId": 70,
+      "wordleId": 71,
+      "name": "메지로 아르당"
+    },
+    {
+      "tasteId": 71,
+      "wordleId": 72,
+      "name": "야에노 무테키"
+    },
+    {
+      "tasteId": 72,
+      "wordleId": 73,
+      "name": "츠루마루 츠요시"
+    },
+    {
+      "tasteId": 73,
+      "wordleId": 74,
+      "name": "메지로 브라이트"
+    },
+    {
+      "tasteId": 74,
+      "wordleId": 75,
+      "name": "데어링 택트"
+    },
+    {
+      "tasteId": 75,
+      "wordleId": 76,
+      "name": "사쿠라 로렐"
+    },
+    {
+      "tasteId": 76,
+      "wordleId": 77,
+      "name": "나리타 탑 로드"
+    },
+    {
+      "tasteId": 77,
+      "wordleId": 78,
+      "name": "야마닌 제퍼"
+    },
+    {
+      "tasteId": 78,
+      "wordleId": 79,
+      "name": "푸리오소"
+    },
+    {
+      "tasteId": 79,
+      "wordleId": 80,
+      "name": "트랜센드"
+    },
+    {
+      "tasteId": 142,
+      "wordleId": 81,
+      "name": "에스푸아르 시티"
+    },
+    {
+      "tasteId": 80,
+      "wordleId": 82,
+      "name": "노스 플라이트"
+    },
+    {
+      "tasteId": 81,
+      "wordleId": 83,
+      "name": "심볼리 크리스에스"
+    },
+    {
+      "tasteId": 82,
+      "wordleId": 84,
+      "name": "타니노 김렛"
+    },
+    {
+      "tasteId": 83,
+      "wordleId": 85,
+      "name": "다이이치 루비"
+    },
+    {
+      "tasteId": 84,
+      "wordleId": 86,
+      "name": "메지로 라모누"
+    },
+    {
+      "tasteId": 85,
+      "wordleId": 87,
+      "name": "애스턴 마짱"
+    },
+    {
+      "tasteId": 86,
+      "wordleId": 88,
+      "name": "사토노 크라운"
+    },
+    {
+      "tasteId": 87,
+      "wordleId": 89,
+      "name": "슈발 그랑"
+    },
+    {
+      "tasteId": 141,
+      "wordleId": 90,
+      "name": "베르시나"
+    },
+    {
+      "tasteId": 88,
+      "wordleId": 91,
+      "name": "비블로스"
+    },
+    {
+      "tasteId": 89,
+      "wordleId": 92,
+      "name": "단츠 플레임"
+    },
+    {
+      "tasteId": 90,
+      "wordleId": 93,
+      "name": "케이에스 미라클"
+    },
+    {
+      "tasteId": 91,
+      "wordleId": 94,
+      "name": "정글 포켓"
+    },
+    {
+      "tasteId": 92,
+      "wordleId": 95,
+      "name": "빌리브"
+    },
+    {
+      "tasteId": 93,
+      "wordleId": 96,
+      "name": "노 리즌"
+    },
+    {
+      "tasteId": 94,
+      "wordleId": 97,
+      "name": "스틸 인 러브"
+    },
+    {
+      "tasteId": 95,
+      "wordleId": 98,
+      "name": "코파노 리키"
+    },
+    {
+      "tasteId": 96,
+      "wordleId": 99,
+      "name": "홋코 타루마에"
+    },
+    {
+      "tasteId": 97,
+      "wordleId": 100,
+      "name": "원더 어큐트"
+    },
+    {
+      "tasteId": 98,
+      "wordleId": 101,
+      "name": "삼손 빅"
+    },
+    {
+      "tasteId": 99,
+      "wordleId": 102,
+      "name": "사운즈 오브 어스"
+    },
+    {
+      "tasteId": 100,
+      "wordleId": 103,
+      "name": "로이스 앤 로이스"
+    },
+    {
+      "tasteId": 101,
+      "wordleId": 104,
+      "name": "카츠라기 에이스"
+    },
+    {
+      "tasteId": 102,
+      "wordleId": 105,
+      "name": "네오 유니버스"
+    },
+    {
+      "tasteId": 103,
+      "wordleId": 106,
+      "name": "히시 미라클"
+    },
+    {
+      "tasteId": 104,
+      "wordleId": 107,
+      "name": "탭 댄스 시티"
+    },
+    {
+      "tasteId": 105,
+      "wordleId": 108,
+      "name": "두라멘테"
+    },
+    {
+      "tasteId": 106,
+      "wordleId": 109,
+      "name": "라인 크라프트"
+    },
+    {
+      "tasteId": 107,
+      "wordleId": 110,
+      "name": "세자리오"
+    },
+    {
+      "tasteId": 108,
+      "wordleId": 111,
+      "name": "에어 메사이어"
+    },
+    {
+      "tasteId": 109,
+      "wordleId": 112,
+      "name": "데어링 하트"
+    },
+    {
+      "tasteId": 110,
+      "wordleId": 113,
+      "name": "후사이치 판도라"
+    },
+    {
+      "tasteId": 111,
+      "wordleId": 114,
+      "name": "부에나 비스타"
+    },
+    {
+      "tasteId": 112,
+      "wordleId": 115,
+      "name": "오르페브르"
+    },
+    {
+      "tasteId": 113,
+      "wordleId": 116,
+      "name": "젠틸돈나"
+    },
+    {
+      "tasteId": 114,
+      "wordleId": 117,
+      "name": "윈 바리아시옹"
+    },
+    {
+      "tasteId": 115,
+      "wordleId": 118,
+      "name": "어드마이어 그루브"
+    },
+    {
+      "tasteId": 116,
+      "wordleId": 119,
+      "name": "드림 저니"
+    },
+    {
+      "tasteId": 117,
+      "wordleId": 120,
+      "name": "칼스톤 라이트오"
+    },
+    {
+      "tasteId": 118,
+      "wordleId": 121,
+      "name": "뒤랑달"
+    },
+    {
+      "tasteId": 119,
+      "wordleId": 122,
+      "name": "버블검 펠로"
+    },
+    {
+      "tasteId": 120,
+      "wordleId": 123,
+      "name": "사쿠라 치토세 오"
+    },
+    {
+      "tasteId": 121,
+      "wordleId": 124,
+      "name": "페노메노"
+    },
+    {
+      "tasteId": 122,
+      "wordleId": 125,
+      "name": "블래스트 원피스"
+    },
+    {
+      "tasteId": 123,
+      "wordleId": 126,
+      "name": "아몬드 아이"
+    },
+    {
+      "tasteId": 124,
+      "wordleId": 127,
+      "name": "럭키 라일락"
+    },
+    {
+      "tasteId": 125,
+      "wordleId": 128,
+      "name": "그란 알레그리아"
+    },
+    {
+      "tasteId": 126,
+      "wordleId": 129,
+      "name": "러브즈 온리 유"
+    },
+    {
+      "tasteId": 127,
+      "wordleId": 130,
+      "name": "크로노 제네시스"
+    },
+    {
+      "tasteId": 128,
+      "wordleId": 131,
+      "name": "카렌 부케도르"
+    },
+    {
+      "tasteId": 129,
+      "wordleId": 132,
+      "name": "스테이 골드"
+    },
+    {
+      "tasteId": 130,
+      "wordleId": 133,
+      "name": "레드 디자이어"
+    },
+    {
+      "tasteId": 131,
+      "wordleId": 134,
+      "name": "키세키"
+    },
+    {
+      "tasteId": 132,
+      "wordleId": 135,
+      "name": "포에버 영"
+    },
+    {
+      "tasteId": 133,
+      "wordleId": 136,
+      "name": "마르슈 로렌"
+    },
+    {
+      "tasteId": 134,
+      "wordleId": 137,
+      "name": "에피파네이아"
+    },
+    {
+      "tasteId": 135,
+      "wordleId": 138,
+      "name": "로고타입"
+    },
+    {
+      "tasteId": 136,
+      "wordleId": 139,
+      "name": "빅투아르 피사"
+    },
+    {
+      "tasteId": 137,
+      "wordleId": 140,
+      "name": "로즈 킹덤"
+    },
+    {
+      "tasteId": 138,
+      "wordleId": 141,
+      "name": "룰러쉽"
+    },
+    {
+      "tasteId": 139,
+      "wordleId": 142,
+      "name": "타이틀홀더"
+    }
+  ],
+  "count": 142,
+  "g1CountCorrections": [
+    {
+      "name": "오구리 캡",
+      "source": 3,
+      "expanded": 4
+    },
+    {
+      "name": "골드 쉽",
+      "source": 5,
+      "expanded": 6
+    },
+    {
+      "name": "보드카",
+      "source": 6,
+      "expanded": 7
+    },
+    {
+      "name": "타이키 셔틀",
+      "source": 4,
+      "expanded": 5
+    },
+    {
+      "name": "그래스 원더",
+      "source": 3,
+      "expanded": 4
+    },
+    {
+      "name": "메지로 맥퀸",
+      "source": 3,
+      "expanded": 4
+    },
+    {
+      "name": "티엠 오페라 오",
+      "source": 6,
+      "expanded": 7
+    },
+    {
+      "name": "심볼리 루돌프",
+      "source": 6,
+      "expanded": 7
+    },
+    {
+      "name": "라이스 샤워",
+      "source": 2,
+      "expanded": 3
+    },
+    {
+      "name": "사쿠라 바쿠신오",
+      "source": 1,
+      "expanded": 2
+    },
+    {
+      "name": "스마트 팔콘",
+      "source": 4,
+      "expanded": 6
+    },
+    {
+      "name": "메지로 도베르",
+      "source": 4,
+      "expanded": 5
+    },
+    {
+      "name": "다이타쿠 헬리오스",
+      "source": 1,
+      "expanded": 2
+    },
+    {
+      "name": "키타산 블랙",
+      "source": 6,
+      "expanded": 7
+    },
+    {
+      "name": "야마닌 제퍼",
+      "source": 2,
+      "expanded": 3
+    },
+    {
+      "name": "푸리오소",
+      "source": 5,
+      "expanded": 6
+    },
+    {
+      "name": "트랜센드",
+      "source": 3,
+      "expanded": 4
+    },
+    {
+      "name": "에스푸아르 시티",
+      "source": 5,
+      "expanded": 9
+    },
+    {
+      "name": "심볼리 크리스에스",
+      "source": 2,
+      "expanded": 4
+    },
+    {
+      "name": "베르시나",
+      "source": 1,
+      "expanded": 2
+    },
+    {
+      "name": "코파노 리키",
+      "source": 6,
+      "expanded": 11
+    },
+    {
+      "name": "홋코 타루마에",
+      "source": 6,
+      "expanded": 10
+    },
+    {
+      "name": "오르페브르",
+      "source": 5,
+      "expanded": 6
+    },
+    {
+      "name": "젠틸돈나",
+      "source": 6,
+      "expanded": 7
+    },
+    {
+      "name": "어드마이어 그루브",
+      "source": 1,
+      "expanded": 2
+    },
+    {
+      "name": "뒤랑달",
+      "source": 2,
+      "expanded": 3
+    },
+    {
+      "name": "페노메노",
+      "source": 1,
+      "expanded": 2
+    },
+    {
+      "name": "아몬드 아이",
+      "source": 7,
+      "expanded": 9
+    },
+    {
+      "name": "럭키 라일락",
+      "source": 3,
+      "expanded": 4
+    },
+    {
+      "name": "그란 알레그리아",
+      "source": 5,
+      "expanded": 6
+    },
+    {
+      "name": "크로노 제네시스",
+      "source": 3,
+      "expanded": 4
+    },
+    {
+      "name": "포에버 영",
+      "source": 5,
+      "expanded": 6
+    }
+  ]
+}

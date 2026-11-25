@@ -1,0 +1,7260 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": 1,
+      "name": "스페셜 위크",
+      "height": 158,
+      "B": 81,
+      "H": 81,
+      "W": 56,
+      "starts": 17,
+      "wins": 10,
+      "dist": [
+        0,
+        3,
+        10,
+        4
+      ],
+      "surface": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 1,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "5월 2일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "천황상(봄)",
+        "일본 더비",
+        "천황상(가을)",
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 2,
+      "name": "사일런스 스즈카",
+      "height": 161,
+      "B": 70,
+      "H": 79,
+      "W": 53,
+      "starts": 16,
+      "wins": 9,
+      "dist": [
+        0,
+        7,
+        9,
+        0
+      ],
+      "surface": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 2,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "5월 1일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "A",
+          "pace": "C",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 3,
+      "name": "토카이 테이오",
+      "height": 150,
+      "B": 77,
+      "H": 76,
+      "W": 54,
+      "starts": 12,
+      "wins": 9,
+      "dist": [
+        0,
+        1,
+        8,
+        3
+      ],
+      "surface": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 3,
+      "birthYear": 1988,
+      "classicYear": 1991,
+      "birthday": "4월 20일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "사츠키상",
+        "일본 더비",
+        "재팬 컵",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "E",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "C",
+          "end": "E"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 4,
+      "name": "마루젠스키",
+      "height": 164,
+      "B": 92,
+      "H": 88,
+      "W": 58,
+      "starts": 8,
+      "wins": 8,
+      "dist": [
+        3,
+        5,
+        0,
+        0
+      ],
+      "surface": [
+        7,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 4,
+      "birthYear": 1974,
+      "classicYear": 1977,
+      "birthday": "5월 19일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "D"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "B",
+          "long": "C"
+        },
+        "style": {
+          "front": "A",
+          "pace": "E",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 5,
+      "name": "후지 키세키",
+      "height": 168,
+      "B": 84,
+      "H": 82,
+      "W": 58,
+      "starts": 4,
+      "wins": 4,
+      "dist": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "surface": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 5,
+      "birthYear": 1992,
+      "classicYear": 1995,
+      "birthday": "4월 15일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "아사히배 3세 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "B",
+          "long": "E"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 6,
+      "name": "오구리 캡",
+      "height": 167,
+      "B": 82,
+      "H": 82,
+      "W": 57,
+      "starts": 32,
+      "wins": 22,
+      "dist": [
+        9,
+        9,
+        11,
+        3
+      ],
+      "surface": [
+        21,
+        11,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 6,
+      "birthYear": 1985,
+      "classicYear": 1988,
+      "birthday": "3월 27일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "야스다 기념",
+        "마일 챔피언십",
+        "아리마 기념(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "B"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "A",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 7,
+      "name": "골드 쉽",
+      "height": 170,
+      "B": 88,
+      "H": 88,
+      "W": 55,
+      "starts": 28,
+      "wins": 13,
+      "dist": [
+        0,
+        4,
+        13,
+        11
+      ],
+      "surface": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 7,
+      "birthYear": 2009,
+      "classicYear": 2012,
+      "birthday": "3월 6일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "사츠키상",
+        "천황상(봄)",
+        "다카라즈카 기념(2회)",
+        "킷카상",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "B",
+          "end": "A"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 8,
+      "name": "보드카",
+      "height": 165,
+      "B": 76,
+      "H": 78,
+      "W": 55,
+      "starts": 27,
+      "wins": 10,
+      "dist": [
+        0,
+        15,
+        11,
+        1
+      ],
+      "surface": [
+        26,
+        0,
+        1,
+        0
+      ],
+      "style": null,
+      "wordleId": 8,
+      "birthYear": 2004,
+      "classicYear": 2007,
+      "birthday": "4월 4일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "빅토리아 마일",
+        "일본 더비",
+        "야스다 기념(2회)",
+        "천황상(가을)",
+        "재팬 컵",
+        "한신 JF"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "C",
+          "pace": "B",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 7
+    },
+    {
+      "id": 9,
+      "name": "다이와 스칼렛",
+      "height": 163,
+      "B": 90,
+      "H": 82,
+      "W": 56,
+      "starts": 9,
+      "wins": 6,
+      "dist": [
+        0,
+        5,
+        3,
+        1
+      ],
+      "surface": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 9,
+      "birthYear": 2004,
+      "classicYear": 2007,
+      "birthday": "5월 13일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "오카상",
+        "슈카상",
+        "엘리자베스 여왕배",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 10,
+      "name": "타이키 셔틀",
+      "height": 172,
+      "B": 94,
+      "H": 90,
+      "W": 59,
+      "starts": 13,
+      "wins": 11,
+      "dist": [
+        6,
+        7,
+        0,
+        0
+      ],
+      "surface": [
+        10,
+        3,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 10,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "3월 23일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "야스다 기념",
+        "스프린터즈 S",
+        "마일 챔피언십(2회)",
+        "자크 르 마루아상(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "B"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "E",
+          "long": "G"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 5
+    },
+    {
+      "id": 11,
+      "name": "그래스 원더",
+      "height": 152,
+      "B": 77,
+      "H": 84,
+      "W": 53,
+      "starts": 15,
+      "wins": 9,
+      "dist": [
+        4,
+        5,
+        2,
+        4
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 11,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "2월 18일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "아사히배 3세 S",
+        "아리마 기념(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "B",
+          "long": "A"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 12,
+      "name": "히시 아마존",
+      "height": 160,
+      "B": 92,
+      "H": 89,
+      "W": 59,
+      "starts": 20,
+      "wins": 10,
+      "dist": [
+        4,
+        5,
+        8,
+        3
+      ],
+      "surface": [
+        18,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 12,
+      "birthYear": 1991,
+      "classicYear": 1994,
+      "birthday": "3월 26일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "엘리자베스 여왕배",
+        "한신 3세 암말 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "C",
+          "end": "A"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 13,
+      "name": "메지로 맥퀸",
+      "height": 159,
+      "B": 71,
+      "H": 76,
+      "W": 54,
+      "starts": 21,
+      "wins": 12,
+      "dist": [
+        0,
+        3,
+        10,
+        8
+      ],
+      "surface": [
+        18,
+        3,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 13,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "4월 3일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(봄)(2회)",
+        "다카라즈카 기념",
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "D",
+          "end": "F"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 14,
+      "name": "엘 콘도르 파사",
+      "height": 163,
+      "B": 89,
+      "H": 86,
+      "W": 58,
+      "starts": 11,
+      "wins": 8,
+      "dist": [
+        1,
+        5,
+        5,
+        0
+      ],
+      "surface": [
+        8,
+        3,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 14,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "3월 17일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "NHK 마일 C",
+        "재팬 컵",
+        "생클루 대상(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "B"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 15,
+      "name": "티엠 오페라 오",
+      "height": 156,
+      "B": 76,
+      "H": 80,
+      "W": 55,
+      "starts": 26,
+      "wins": 14,
+      "dist": [
+        1,
+        2,
+        15,
+        8
+      ],
+      "surface": [
+        24,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 15,
+      "birthYear": 1996,
+      "classicYear": 1999,
+      "birthday": "3월 13일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "사츠키상",
+        "천황상(봄)(2회)",
+        "다카라즈카 기념",
+        "천황상(가을)",
+        "재팬 컵",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 7
+    },
+    {
+      "id": 16,
+      "name": "나리타 브라이언",
+      "height": 160,
+      "B": 91,
+      "H": 85,
+      "W": 58,
+      "starts": 21,
+      "wins": 12,
+      "dist": [
+        5,
+        5,
+        5,
+        6
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 16,
+      "birthYear": 1991,
+      "classicYear": 1994,
+      "birthday": "5월 3일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "사츠키상",
+        "일본 더비",
+        "킷카상",
+        "아사히배 3세 S",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "B",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 5
+    },
+    {
+      "id": 17,
+      "name": "심볼리 루돌프",
+      "height": 165,
+      "B": 86,
+      "H": 85,
+      "W": 59,
+      "starts": 17,
+      "wins": 13,
+      "dist": [
+        1,
+        2,
+        9,
+        5
+      ],
+      "surface": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 17,
+      "birthYear": 1981,
+      "classicYear": 1984,
+      "birthday": "3월 13일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "사츠키상",
+        "천황상(봄)",
+        "일본 더비",
+        "킷카상",
+        "재팬 컵",
+        "아리마 기념(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 7
+    },
+    {
+      "id": 18,
+      "name": "에어 그루브",
+      "height": 165,
+      "B": 90,
+      "H": 86,
+      "W": 57,
+      "starts": 19,
+      "wins": 9,
+      "dist": [
+        2,
+        3,
+        12,
+        2
+      ],
+      "surface": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 18,
+      "birthYear": 1993,
+      "classicYear": 1996,
+      "birthday": "4월 6일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "오크스",
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "B",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 19,
+      "name": "아그네스 디지털",
+      "height": 143,
+      "B": 74,
+      "H": 75,
+      "W": 51,
+      "starts": 32,
+      "wins": 12,
+      "dist": [
+        7,
+        16,
+        8,
+        1
+      ],
+      "surface": [
+        15,
+        17,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 19,
+      "birthYear": 1997,
+      "classicYear": 2000,
+      "birthday": "5월 15일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "페브러리 S",
+        "야스다 기념",
+        "천황상(가을)",
+        "마일 챔피언십",
+        "마일 챔피언십 남부배(JpnI)",
+        "홍콩 컵(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 20,
+      "name": "세이운 스카이",
+      "height": 155,
+      "B": 77,
+      "H": 80,
+      "W": 55,
+      "starts": 13,
+      "wins": 7,
+      "dist": [
+        0,
+        1,
+        7,
+        5
+      ],
+      "surface": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 20,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "4월 26일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "사츠키상",
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "A",
+          "pace": "B",
+          "late": "D",
+          "end": "E"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 21,
+      "name": "타마모 크로스",
+      "height": 140,
+      "B": 71,
+      "H": 73,
+      "W": 52,
+      "starts": 18,
+      "wins": 9,
+      "dist": [
+        0,
+        5,
+        9,
+        4
+      ],
+      "surface": [
+        12,
+        6,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 21,
+      "birthYear": 1984,
+      "classicYear": 1987,
+      "birthday": "5월 23일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(봄)",
+        "다카라즈카 기념",
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 22,
+      "name": "파인 모션",
+      "height": 158,
+      "B": 79,
+      "H": 83,
+      "W": 56,
+      "starts": 15,
+      "wins": 8,
+      "dist": [
+        0,
+        6,
+        7,
+        2
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 22,
+      "birthYear": 1999,
+      "classicYear": 2002,
+      "birthday": "1월 27일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "슈카상",
+        "엘리자베스 여왕배"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "E",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 23,
+      "name": "비와 하야히데",
+      "height": 171,
+      "B": 93,
+      "H": 88,
+      "W": 61,
+      "starts": 16,
+      "wins": 10,
+      "dist": [
+        1,
+        4,
+        8,
+        3
+      ],
+      "surface": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 23,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "3월 10일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(봄)",
+        "다카라즈카 기념",
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "B",
+          "end": "E"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 24,
+      "name": "마야노 탑건",
+      "height": 143,
+      "B": 75,
+      "H": 73,
+      "W": 51,
+      "starts": 21,
+      "wins": 8,
+      "dist": [
+        6,
+        2,
+        6,
+        7
+      ],
+      "surface": [
+        14,
+        7,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 24,
+      "birthYear": 1992,
+      "classicYear": 1995,
+      "birthday": "3월 24일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "천황상(봄)",
+        "다카라즈카 기념",
+        "킷카상",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "D",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "B",
+          "end": "B"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 25,
+      "name": "미호노 부르봉",
+      "height": 160,
+      "B": 86,
+      "H": 87,
+      "W": 54,
+      "starts": 8,
+      "wins": 7,
+      "dist": [
+        1,
+        3,
+        3,
+        1
+      ],
+      "surface": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 26,
+      "birthYear": 1989,
+      "classicYear": 1992,
+      "birthday": "4월 25일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "사츠키상",
+        "일본 더비",
+        "아사히배 3세 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "B",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "A",
+          "pace": "E",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 26,
+      "name": "메지로 라이언",
+      "height": 163,
+      "B": 87,
+      "H": 86,
+      "W": 57,
+      "starts": 19,
+      "wins": 7,
+      "dist": [
+        3,
+        3,
+        8,
+        5
+      ],
+      "surface": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 27,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "4월 11일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "C",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 27,
+      "name": "히시 아케보노",
+      "height": 180,
+      "B": 99,
+      "H": 88,
+      "W": 64,
+      "starts": 30,
+      "wins": 6,
+      "dist": [
+        20,
+        10,
+        0,
+        0
+      ],
+      "surface": [
+        26,
+        4,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 28,
+      "birthYear": 1992,
+      "classicYear": 1995,
+      "birthday": "2월 27일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "F",
+          "long": "G"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 28,
+      "name": "유키노 비진",
+      "height": 156,
+      "B": 80,
+      "H": 80,
+      "W": 55,
+      "starts": 10,
+      "wins": 6,
+      "dist": [
+        3,
+        4,
+        3,
+        0
+      ],
+      "surface": [
+        6,
+        4,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 29,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "3월 10일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "B"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 29,
+      "name": "라이스 샤워",
+      "height": 145,
+      "B": 75,
+      "H": 76,
+      "W": 51,
+      "starts": 25,
+      "wins": 6,
+      "dist": [
+        2,
+        2,
+        11,
+        10
+      ],
+      "surface": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 30,
+      "birthYear": 1989,
+      "classicYear": 1992,
+      "birthday": "3월 5일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "천황상(봄)(2회)",
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 30,
+      "name": "아이네스 후진",
+      "height": 167,
+      "B": 88,
+      "H": 84,
+      "W": 58,
+      "starts": 8,
+      "wins": 4,
+      "dist": [
+        0,
+        5,
+        3,
+        0
+      ],
+      "surface": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 31,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "4월 10일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "일본 더비",
+        "아사히배 3세 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "A",
+          "pace": "C",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 31,
+      "name": "아그네스 타키온",
+      "height": 159,
+      "B": 83,
+      "H": 81,
+      "W": 55,
+      "starts": 4,
+      "wins": 4,
+      "dist": [
+        0,
+        0,
+        4,
+        0
+      ],
+      "surface": [
+        4,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 32,
+      "birthYear": 1998,
+      "classicYear": 2001,
+      "birthday": "4월 13일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "사츠키상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "D",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "B",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 32,
+      "name": "어드마이어 베가",
+      "height": 157,
+      "B": 85,
+      "H": 82,
+      "W": 57,
+      "starts": 8,
+      "wins": 4,
+      "dist": [
+        0,
+        1,
+        6,
+        1
+      ],
+      "surface": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 33,
+      "birthYear": 1996,
+      "classicYear": 1999,
+      "birthday": "3월 12일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "일본 더비"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "C",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "G",
+          "pace": "G",
+          "late": "B",
+          "end": "A"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 33,
+      "name": "이나리 원",
+      "height": 139,
+      "B": 85,
+      "H": 74,
+      "W": 51,
+      "starts": 25,
+      "wins": 12,
+      "dist": [
+        2,
+        6,
+        9,
+        8
+      ],
+      "surface": [
+        11,
+        14,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 34,
+      "birthYear": 1984,
+      "classicYear": 1987,
+      "birthday": "5월 7일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "천황상(봄)",
+        "다카라즈카 기념",
+        "아리마 기념",
+        "도쿄 대상전"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "B",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "B",
+          "end": "A"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 34,
+      "name": "위닝 티켓",
+      "height": 157,
+      "B": 88,
+      "H": 85,
+      "W": 57,
+      "starts": 14,
+      "wins": 6,
+      "dist": [
+        1,
+        1,
+        10,
+        2
+      ],
+      "surface": [
+        14,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 35,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "3월 21일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "일본 더비"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 35,
+      "name": "에어 샤커",
+      "height": 168,
+      "B": 77,
+      "H": 85,
+      "W": 56,
+      "starts": 20,
+      "wins": 4,
+      "dist": [
+        0,
+        2,
+        15,
+        3
+      ],
+      "surface": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 36,
+      "birthYear": 1997,
+      "classicYear": 2000,
+      "birthday": "2월 26일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "사츠키상",
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "C",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 36,
+      "name": "에이신 플래시",
+      "height": 160,
+      "B": 88,
+      "H": 86,
+      "W": 58,
+      "starts": 27,
+      "wins": 6,
+      "dist": [
+        0,
+        4,
+        19,
+        4
+      ],
+      "surface": [
+        26,
+        0,
+        1,
+        0
+      ],
+      "style": null,
+      "wordleId": 37,
+      "birthYear": 2007,
+      "classicYear": 2010,
+      "birthday": "3월 27일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "일본 더비",
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 37,
+      "name": "카렌짱",
+      "height": 155,
+      "B": 83,
+      "H": 79,
+      "W": 55,
+      "starts": 18,
+      "wins": 9,
+      "dist": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        16,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 38,
+      "birthYear": 2007,
+      "classicYear": 2010,
+      "birthday": "3월 31일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "다카마쓰노미야 기념",
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "D",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 38,
+      "name": "카와카미 프린세스",
+      "height": 154,
+      "B": 91,
+      "H": 87,
+      "W": 57,
+      "starts": 17,
+      "wins": 5,
+      "dist": [
+        2,
+        5,
+        9,
+        1
+      ],
+      "surface": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 39,
+      "birthYear": 2003,
+      "classicYear": 2006,
+      "birthday": "6월 5일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "오크스",
+        "슈카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "B",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "C",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 39,
+      "name": "골드 시티",
+      "height": 158,
+      "B": 85,
+      "H": 82,
+      "W": 58,
+      "starts": 20,
+      "wins": 3,
+      "dist": [
+        4,
+        3,
+        9,
+        4
+      ],
+      "surface": [
+        16,
+        4,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 40,
+      "birthYear": 1984,
+      "classicYear": 1987,
+      "birthday": "4월 16일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "한신 3세 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "D"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "B",
+          "long": "B"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 40,
+      "name": "사쿠라 바쿠신오",
+      "height": 158,
+      "B": 83,
+      "H": 83,
+      "W": 55,
+      "starts": 21,
+      "wins": 11,
+      "dist": [
+        12,
+        9,
+        0,
+        0
+      ],
+      "surface": [
+        20,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 41,
+      "birthYear": 1989,
+      "classicYear": 1992,
+      "birthday": "4월 14일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "스프린터즈 S(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 41,
+      "name": "시킹 더 펄",
+      "height": 168,
+      "B": 91,
+      "H": 87,
+      "W": 57,
+      "starts": 21,
+      "wins": 8,
+      "dist": [
+        9,
+        8,
+        1,
+        0
+      ],
+      "surface": [
+        20,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 42,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "4월 16일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "NHK 마일 C",
+        "모리스 드 게스트상(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "E",
+          "long": "G"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 42,
+      "name": "신코 윈디",
+      "height": 152,
+      "B": 77,
+      "H": 88,
+      "W": 57,
+      "starts": 17,
+      "wins": 5,
+      "dist": [
+        1,
+        11,
+        5,
+        0
+      ],
+      "surface": [
+        4,
+        13,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 43,
+      "birthYear": 1993,
+      "classicYear": 1996,
+      "birthday": "4월 14일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "페브러리 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "F",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "A",
+          "middle": "B",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "B",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 43,
+      "name": "스윕 토쇼",
+      "height": 139,
+      "B": 72,
+      "H": 73,
+      "W": 53,
+      "starts": 24,
+      "wins": 8,
+      "dist": [
+        4,
+        8,
+        11,
+        1
+      ],
+      "surface": [
+        24,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 44,
+      "birthYear": 2001,
+      "classicYear": 2004,
+      "birthday": "5월 9일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "슈카상",
+        "엘리자베스 여왕배"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "A",
+          "middle": "A",
+          "long": "D"
+        },
+        "style": {
+          "front": "G",
+          "pace": "G",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 44,
+      "name": "슈퍼 크릭",
+      "height": 168,
+      "B": 97,
+      "H": 91,
+      "W": 61,
+      "starts": 16,
+      "wins": 8,
+      "dist": [
+        0,
+        0,
+        12,
+        4
+      ],
+      "surface": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 45,
+      "birthYear": 1985,
+      "classicYear": 1988,
+      "birthday": "5월 27일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(봄)",
+        "킷카상",
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "G",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "B",
+          "end": "G"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 45,
+      "name": "스마트 팔콘",
+      "height": 156,
+      "B": 78,
+      "H": 80,
+      "W": 55,
+      "starts": 34,
+      "wins": 23,
+      "dist": [
+        6,
+        10,
+        18,
+        0
+      ],
+      "surface": [
+        4,
+        29,
+        1,
+        0
+      ],
+      "style": null,
+      "wordleId": 46,
+      "birthYear": 2005,
+      "classicYear": 2008,
+      "birthday": "4월 4일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "JBC 클래식(2회)",
+        "도쿄 대상전(2회)",
+        "제왕상",
+        "가와사키 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "E",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "A",
+          "pace": "D",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 46,
+      "name": "젠노 롭 로이",
+      "height": 140,
+      "B": 89,
+      "H": 78,
+      "W": 56,
+      "starts": 20,
+      "wins": 7,
+      "dist": [
+        0,
+        1,
+        13,
+        6
+      ],
+      "surface": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 47,
+      "birthYear": 2000,
+      "classicYear": 2003,
+      "birthday": "3월 27일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(가을)",
+        "재팬 컵",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 47,
+      "name": "토센 조던",
+      "height": 157,
+      "B": 82,
+      "H": 84,
+      "W": 56,
+      "starts": 30,
+      "wins": 9,
+      "dist": [
+        0,
+        2,
+        23,
+        5
+      ],
+      "surface": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 48,
+      "birthYear": 2006,
+      "classicYear": 2009,
+      "birthday": "2월 4일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "B",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 48,
+      "name": "나카야마 페스타",
+      "height": 159,
+      "B": 78,
+      "H": 79,
+      "W": 54,
+      "starts": 15,
+      "wins": 5,
+      "dist": [
+        0,
+        2,
+        12,
+        1
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 49,
+      "birthYear": 2006,
+      "classicYear": 2009,
+      "birthday": "4월 5일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 49,
+      "name": "나리타 타이신",
+      "height": 145,
+      "B": 69,
+      "H": 73,
+      "W": 50,
+      "starts": 15,
+      "wins": 4,
+      "dist": [
+        2,
+        4,
+        6,
+        3
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 50,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "6월 10일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "사츠키상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "D",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "F",
+          "late": "B",
+          "end": "A"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 50,
+      "name": "니시노 플라워",
+      "height": 135,
+      "B": 67,
+      "H": 70,
+      "W": 48,
+      "starts": 16,
+      "wins": 7,
+      "dist": [
+        6,
+        6,
+        4,
+        0
+      ],
+      "surface": [
+        15,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 51,
+      "birthYear": 1989,
+      "classicYear": 1992,
+      "birthday": "4월 19일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "오카상",
+        "스프린터즈 S",
+        "한신 3세 암말 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "E",
+          "long": "G"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 51,
+      "name": "하루 우라라",
+      "height": 140,
+      "B": 74,
+      "H": 73,
+      "W": 51,
+      "starts": 113,
+      "wins": 0,
+      "dist": [
+        113,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        113,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 52,
+      "birthYear": 1996,
+      "classicYear": 1999,
+      "birthday": "2월 27일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "G",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "G",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 52,
+      "name": "뱀부 메모리",
+      "height": 157,
+      "B": 77,
+      "H": 81,
+      "W": 57,
+      "starts": 39,
+      "wins": 8,
+      "dist": [
+        18,
+        14,
+        7,
+        0
+      ],
+      "surface": [
+        24,
+        15,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 53,
+      "birthYear": 1985,
+      "classicYear": 1988,
+      "birthday": "5월 14일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "야스다 기념",
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "D"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "C",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "E",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 53,
+      "name": "비코 페가수스",
+      "height": 144,
+      "B": 72,
+      "H": 75,
+      "W": 54,
+      "starts": 27,
+      "wins": 4,
+      "dist": [
+        14,
+        13,
+        0,
+        0
+      ],
+      "surface": [
+        23,
+        4,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 54,
+      "birthYear": 1991,
+      "classicYear": 1994,
+      "birthday": "2월 8일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "E",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 54,
+      "name": "마블러스 선데이",
+      "height": 145,
+      "B": 87,
+      "H": 77,
+      "W": 52,
+      "starts": 15,
+      "wins": 10,
+      "dist": [
+        0,
+        4,
+        8,
+        3
+      ],
+      "surface": [
+        14,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 55,
+      "birthYear": 1992,
+      "classicYear": 1995,
+      "birthday": "5월 31일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 55,
+      "name": "마치카네 후쿠키타루",
+      "height": 158,
+      "B": 84,
+      "H": 83,
+      "W": 59,
+      "starts": 22,
+      "wins": 6,
+      "dist": [
+        1,
+        6,
+        12,
+        3
+      ],
+      "surface": [
+        20,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 56,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "5월 22일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 56,
+      "name": "미스터 시비",
+      "height": 166,
+      "B": 84,
+      "H": 80,
+      "W": 55,
+      "starts": 15,
+      "wins": 8,
+      "dist": [
+        0,
+        6,
+        6,
+        3
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 57,
+      "birthYear": 1980,
+      "classicYear": 1983,
+      "birthday": "4월 7일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "E",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 57,
+      "name": "메이쇼 도토",
+      "height": 164,
+      "B": 99,
+      "H": 89,
+      "W": 61,
+      "starts": 27,
+      "wins": 10,
+      "dist": [
+        1,
+        7,
+        14,
+        5
+      ],
+      "surface": [
+        22,
+        5,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 58,
+      "birthYear": 1996,
+      "classicYear": 1999,
+      "birthday": "3월 25일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "B",
+          "end": "E"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 58,
+      "name": "메지로 도베르",
+      "height": 157,
+      "B": 83,
+      "H": 81,
+      "W": 57,
+      "starts": 21,
+      "wins": 10,
+      "dist": [
+        3,
+        7,
+        8,
+        3
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 59,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "5월 6일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "오크스",
+        "슈카상",
+        "엘리자베스 여왕배(2회)",
+        "한신 3세 암말 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "C",
+          "pace": "B",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 5
+    },
+    {
+      "id": 59,
+      "name": "나이스 네이처",
+      "height": 157,
+      "B": 79,
+      "H": 80,
+      "W": 56,
+      "starts": 41,
+      "wins": 7,
+      "dist": [
+        2,
+        8,
+        21,
+        10
+      ],
+      "surface": [
+        40,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 60,
+      "birthYear": 1988,
+      "classicYear": 1991,
+      "birthday": "4월 16일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "F",
+          "pace": "B",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 60,
+      "name": "킹 헤일로",
+      "height": 159,
+      "B": 85,
+      "H": 85,
+      "W": 60,
+      "starts": 27,
+      "wins": 6,
+      "dist": [
+        5,
+        11,
+        8,
+        3
+      ],
+      "surface": [
+        26,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 61,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "4월 28일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카마쓰노미야 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "B",
+          "long": "C"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 61,
+      "name": "마치카네 탄호이저",
+      "height": 155,
+      "B": 80,
+      "H": 80,
+      "W": 55,
+      "starts": 32,
+      "wins": 8,
+      "dist": [
+        0,
+        9,
+        15,
+        8
+      ],
+      "surface": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 62,
+      "birthYear": 1989,
+      "classicYear": 1992,
+      "birthday": "5월 7일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "D",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 62,
+      "name": "이쿠노 딕터스",
+      "height": 163,
+      "B": 75,
+      "H": 82,
+      "W": 53,
+      "starts": 51,
+      "wins": 9,
+      "dist": [
+        9,
+        15,
+        23,
+        4
+      ],
+      "surface": [
+        51,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 63,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "4월 16일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "D"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 63,
+      "name": "메지로 파머",
+      "height": 160,
+      "B": 84,
+      "H": 86,
+      "W": 57,
+      "starts": 38,
+      "wins": 9,
+      "dist": [
+        7,
+        9,
+        13,
+        9
+      ],
+      "surface": [
+        35,
+        1,
+        0,
+        2
+      ],
+      "style": null,
+      "wordleId": 64,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "3월 21일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "A",
+          "pace": "E",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 64,
+      "name": "다이타쿠 헬리오스",
+      "height": 156,
+      "B": 82,
+      "H": 85,
+      "W": 53,
+      "starts": 35,
+      "wins": 10,
+      "dist": [
+        15,
+        14,
+        4,
+        2
+      ],
+      "surface": [
+        34,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 65,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "4월 10일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "마일 챔피언십(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "B",
+          "long": "E"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 65,
+      "name": "트윈 터보",
+      "height": 146,
+      "B": 72,
+      "H": 74,
+      "W": 51,
+      "starts": 23,
+      "wins": 5,
+      "dist": [
+        0,
+        4,
+        16,
+        3
+      ],
+      "surface": [
+        21,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 66,
+      "birthYear": 1988,
+      "classicYear": 1991,
+      "birthday": "4월 13일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "A",
+          "pace": "G",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 66,
+      "name": "사토노 다이아몬드",
+      "height": 158,
+      "B": 87,
+      "H": 84,
+      "W": 54,
+      "starts": 18,
+      "wins": 8,
+      "dist": [
+        0,
+        1,
+        12,
+        5
+      ],
+      "surface": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 67,
+      "birthYear": 2013,
+      "classicYear": 2016,
+      "birthday": "1월 30일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "킷카상",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 67,
+      "name": "키타산 블랙",
+      "height": 162,
+      "B": 85,
+      "H": 88,
+      "W": 56,
+      "starts": 20,
+      "wins": 12,
+      "dist": [
+        0,
+        2,
+        12,
+        6
+      ],
+      "surface": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 68,
+      "birthYear": 2012,
+      "classicYear": 2015,
+      "birthday": "3월 10일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "오사카배",
+        "천황상(봄)(2회)",
+        "킷카상",
+        "천황상(가을)",
+        "재팬 컵",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "A",
+          "pace": "B",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 7
+    },
+    {
+      "id": 68,
+      "name": "사쿠라 치요노오",
+      "height": 156,
+      "B": 80,
+      "H": 83,
+      "W": 55,
+      "starts": 10,
+      "wins": 5,
+      "dist": [
+        1,
+        5,
+        4,
+        0
+      ],
+      "surface": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 69,
+      "birthYear": 1985,
+      "classicYear": 1988,
+      "birthday": "2월 19일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "일본 더비",
+        "아사히배 3세 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 69,
+      "name": "시리우스 심볼리",
+      "height": 167,
+      "B": 89,
+      "H": 86,
+      "W": 55,
+      "starts": 26,
+      "wins": 4,
+      "dist": [
+        0,
+        8,
+        17,
+        1
+      ],
+      "surface": [
+        26,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 70,
+      "birthYear": 1982,
+      "classicYear": 1985,
+      "birthday": "3월 26일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "일본 더비"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "C",
+          "end": "E"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 70,
+      "name": "메지로 아르당",
+      "height": 162,
+      "B": 87,
+      "H": 85,
+      "W": 56,
+      "starts": 14,
+      "wins": 4,
+      "dist": [
+        1,
+        3,
+        9,
+        1
+      ],
+      "surface": [
+        13,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 71,
+      "birthYear": 1985,
+      "classicYear": 1988,
+      "birthday": "3월 28일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "B",
+          "middle": "A",
+          "long": "D"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "D",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 71,
+      "name": "야에노 무테키",
+      "height": 159,
+      "B": 78,
+      "H": 81,
+      "W": 54,
+      "starts": 23,
+      "wins": 8,
+      "dist": [
+        0,
+        6,
+        13,
+        4
+      ],
+      "surface": [
+        21,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 72,
+      "birthYear": 1985,
+      "classicYear": 1988,
+      "birthday": "4월 11일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "사츠키상",
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 72,
+      "name": "츠루마루 츠요시",
+      "height": 160,
+      "B": 85,
+      "H": 86,
+      "W": 58,
+      "starts": 11,
+      "wins": 5,
+      "dist": [
+        1,
+        3,
+        5,
+        2
+      ],
+      "surface": [
+        10,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 73,
+      "birthYear": 1995,
+      "classicYear": 1998,
+      "birthday": "4월 6일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "D",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 73,
+      "name": "메지로 브라이트",
+      "height": 157,
+      "B": 84,
+      "H": 81,
+      "W": 59,
+      "starts": 25,
+      "wins": 8,
+      "dist": [
+        1,
+        4,
+        12,
+        8
+      ],
+      "surface": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 74,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "4월 19일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "천황상(봄)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "D",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 74,
+      "name": "데어링 택트",
+      "height": 158,
+      "B": 80,
+      "H": 82,
+      "W": 55,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 75,
+      "birthYear": 2017,
+      "classicYear": 2020,
+      "birthday": "4월 15일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "오카상",
+        "오크스",
+        "슈카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 75,
+      "name": "사쿠라 로렐",
+      "height": 162,
+      "B": 78,
+      "H": 80,
+      "W": 54,
+      "starts": 22,
+      "wins": 9,
+      "dist": [
+        1,
+        7,
+        9,
+        5
+      ],
+      "surface": [
+        19,
+        3,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 76,
+      "birthYear": 1991,
+      "classicYear": 1994,
+      "birthday": "5월 8일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "천황상(봄)",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 76,
+      "name": "나리타 탑 로드",
+      "height": 166,
+      "B": 86,
+      "H": 83,
+      "W": 56,
+      "starts": 30,
+      "wins": 8,
+      "dist": [
+        0,
+        1,
+        17,
+        12
+      ],
+      "surface": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 77,
+      "birthYear": 1996,
+      "classicYear": 1999,
+      "birthday": "4월 4일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "B",
+          "end": "D"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 77,
+      "name": "야마닌 제퍼",
+      "height": 154,
+      "B": 85,
+      "H": 77,
+      "W": 52,
+      "starts": 20,
+      "wins": 8,
+      "dist": [
+        13,
+        6,
+        1,
+        0
+      ],
+      "surface": [
+        14,
+        6,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 78,
+      "birthYear": 1988,
+      "classicYear": 1991,
+      "birthday": "5월 27일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "야스다 기념(2회)",
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "D"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 78,
+      "name": "푸리오소",
+      "height": 161,
+      "B": 81,
+      "H": 78,
+      "W": 53,
+      "starts": 34,
+      "wins": 10,
+      "dist": [
+        1,
+        13,
+        20,
+        0
+      ],
+      "surface": [
+        2,
+        32,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 79,
+      "birthYear": 2004,
+      "classicYear": 2007,
+      "birthday": "5월 1일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "전일본 2세 우준",
+        "재팬 더트 더비",
+        "제왕상(2회)",
+        "가와사키 기념",
+        "카시와 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "G",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 79,
+      "name": "트랜센드",
+      "height": 164,
+      "B": 86,
+      "H": 84,
+      "W": 57,
+      "starts": 24,
+      "wins": 10,
+      "dist": [
+        0,
+        16,
+        8,
+        0
+      ],
+      "surface": [
+        2,
+        22,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 80,
+      "birthYear": 2006,
+      "classicYear": 2009,
+      "birthday": "3월 9일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "페브러리 S",
+        "재팬 컵 더트(2회)",
+        "마일 챔피언십 남부배(JpnI)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "F",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "B",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 80,
+      "name": "노스 플라이트",
+      "height": 156,
+      "B": 82,
+      "H": 80,
+      "W": 51,
+      "starts": 11,
+      "wins": 8,
+      "dist": [
+        1,
+        7,
+        3,
+        0
+      ],
+      "surface": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 82,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "4월 12일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "야스다 기념",
+        "마일 챔피언십"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "A",
+          "middle": "B",
+          "long": "G"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "D",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 81,
+      "name": "심볼리 크리스에스",
+      "height": 170,
+      "B": 91,
+      "H": 88,
+      "W": 58,
+      "starts": 15,
+      "wins": 8,
+      "dist": [
+        0,
+        3,
+        10,
+        2
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 83,
+      "birthYear": 1999,
+      "classicYear": 2002,
+      "birthday": "1월 21일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "천황상(가을)(2회)",
+        "아리마 기념(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 82,
+      "name": "타니노 김렛",
+      "height": 166,
+      "B": 77,
+      "H": 79,
+      "W": 56,
+      "starts": 8,
+      "wins": 5,
+      "dist": [
+        1,
+        5,
+        2,
+        0
+      ],
+      "surface": [
+        7,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 84,
+      "birthYear": 1999,
+      "classicYear": 2002,
+      "birthday": "5월 4일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "일본 더비"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "D",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 83,
+      "name": "다이이치 루비",
+      "height": 141,
+      "B": 77,
+      "H": 76,
+      "W": 53,
+      "starts": 18,
+      "wins": 6,
+      "dist": [
+        4,
+        9,
+        5,
+        0
+      ],
+      "surface": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 85,
+      "birthYear": 1987,
+      "classicYear": 1990,
+      "birthday": "4월 15일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "야스다 기념",
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "C",
+          "long": "G"
+        },
+        "style": {
+          "front": "E",
+          "pace": "B",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 84,
+      "name": "메지로 라모누",
+      "height": 165,
+      "B": 87,
+      "H": 90,
+      "W": 57,
+      "starts": 12,
+      "wins": 9,
+      "dist": [
+        3,
+        5,
+        3,
+        1
+      ],
+      "surface": [
+        11,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 86,
+      "birthYear": 1983,
+      "classicYear": 1986,
+      "birthday": "4월 9일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "오카상",
+        "오크스",
+        "엘리자베스 여왕배"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 85,
+      "name": "애스턴 마짱",
+      "height": 152,
+      "B": 86,
+      "H": 80,
+      "W": 55,
+      "starts": 11,
+      "wins": 5,
+      "dist": [
+        9,
+        2,
+        0,
+        0
+      ],
+      "surface": [
+        11,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 87,
+      "birthYear": 2004,
+      "classicYear": 2007,
+      "birthday": "3월 5일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 86,
+      "name": "사토노 크라운",
+      "height": 163,
+      "B": 82,
+      "H": 81,
+      "W": 53,
+      "starts": 20,
+      "wins": 7,
+      "dist": [
+        0,
+        2,
+        16,
+        2
+      ],
+      "surface": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 88,
+      "birthYear": 2012,
+      "classicYear": 2015,
+      "birthday": "3월 10일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "홍콩 바즈(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 87,
+      "name": "슈발 그랑",
+      "height": 160,
+      "B": 85,
+      "H": 80,
+      "W": 56,
+      "starts": 32,
+      "wins": 7,
+      "dist": [
+        0,
+        1,
+        20,
+        11
+      ],
+      "surface": [
+        32,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 89,
+      "birthYear": 2012,
+      "classicYear": 2015,
+      "birthday": "3월 14일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "G",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "B",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 88,
+      "name": "비블로스",
+      "height": 156,
+      "B": 81,
+      "H": 86,
+      "W": 51,
+      "starts": 17,
+      "wins": 4,
+      "dist": [
+        0,
+        11,
+        6,
+        0
+      ],
+      "surface": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 91,
+      "birthYear": 2013,
+      "classicYear": 2016,
+      "birthday": "4월 9일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "슈카상",
+        "두바이 터프(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "D",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 89,
+      "name": "단츠 플레임",
+      "height": 163,
+      "B": 90,
+      "H": 88,
+      "W": 60,
+      "starts": 26,
+      "wins": 6,
+      "dist": [
+        5,
+        9,
+        10,
+        2
+      ],
+      "surface": [
+        20,
+        6,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 92,
+      "birthYear": 1998,
+      "classicYear": 2001,
+      "birthday": "4월 19일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "B",
+          "middle": "A",
+          "long": "D"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "B",
+          "end": "D"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 90,
+      "name": "케이에스 미라클",
+      "height": 156,
+      "B": 79,
+      "H": 77,
+      "W": 51,
+      "starts": 10,
+      "wins": 5,
+      "dist": [
+        7,
+        3,
+        0,
+        0
+      ],
+      "surface": [
+        10,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 93,
+      "birthYear": 1988,
+      "classicYear": 1991,
+      "birthday": "3월 16일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "B",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "B",
+          "end": "C"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 91,
+      "name": "정글 포켓",
+      "height": 158,
+      "B": 77,
+      "H": 80,
+      "W": 56,
+      "starts": 13,
+      "wins": 5,
+      "dist": [
+        0,
+        3,
+        6,
+        4
+      ],
+      "surface": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 94,
+      "birthYear": 1998,
+      "classicYear": 2001,
+      "birthday": "5월 7일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "일본 더비",
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "D",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 92,
+      "name": "빌리브",
+      "height": 156,
+      "B": 72,
+      "H": 77,
+      "W": 54,
+      "starts": 28,
+      "wins": 10,
+      "dist": [
+        22,
+        6,
+        0,
+        0
+      ],
+      "surface": [
+        27,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 95,
+      "birthYear": 1998,
+      "classicYear": 2001,
+      "birthday": "4월 26일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "다카마쓰노미야 기념",
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "D",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "D",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 93,
+      "name": "노 리즌",
+      "height": 160,
+      "B": 80,
+      "H": 85,
+      "W": 56,
+      "starts": 12,
+      "wins": 3,
+      "dist": [
+        0,
+        2,
+        7,
+        3
+      ],
+      "surface": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 96,
+      "birthYear": 1999,
+      "classicYear": 2002,
+      "birthday": "6월 4일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "사츠키상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "G",
+          "pace": "D",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 94,
+      "name": "스틸 인 러브",
+      "height": 153,
+      "B": 72,
+      "H": 76,
+      "W": 50,
+      "starts": 16,
+      "wins": 5,
+      "dist": [
+        2,
+        5,
+        9,
+        0
+      ],
+      "surface": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 97,
+      "birthYear": 2000,
+      "classicYear": 2003,
+      "birthday": "5월 2일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "오카상",
+        "오크스",
+        "슈카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 95,
+      "name": "코파노 리키",
+      "height": 165,
+      "B": 83,
+      "H": 87,
+      "W": 55,
+      "starts": 33,
+      "wins": 16,
+      "dist": [
+        3,
+        20,
+        10,
+        0
+      ],
+      "surface": [
+        0,
+        33,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 98,
+      "birthYear": 2010,
+      "classicYear": 2013,
+      "birthday": "3월 24일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "페브러리 S(2회)",
+        "JBC 클래식(2회)",
+        "제왕상",
+        "카시와 기념(3회)",
+        "마일 챔피언십 남부배(2회)",
+        "도쿄 대상전"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "F",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 11
+    },
+    {
+      "id": 96,
+      "name": "홋코 타루마에",
+      "height": 162,
+      "B": 86,
+      "H": 85,
+      "W": 56,
+      "starts": 39,
+      "wins": 17,
+      "dist": [
+        1,
+        19,
+        19,
+        0
+      ],
+      "surface": [
+        0,
+        38,
+        1,
+        0
+      ],
+      "style": null,
+      "wordleId": 99,
+      "birthYear": 2009,
+      "classicYear": 2012,
+      "birthday": "5월 26일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "챔피언스 C",
+        "도쿄 대상전(2회)",
+        "가와사키 기념(3회)",
+        "카시와 기념",
+        "제왕상(2회)",
+        "JBC 클래식"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "G",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "B",
+          "pace": "A",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 10
+    },
+    {
+      "id": 97,
+      "name": "원더 어큐트",
+      "height": 159,
+      "B": 75,
+      "H": 78,
+      "W": 52,
+      "starts": 48,
+      "wins": 13,
+      "dist": [
+        0,
+        25,
+        23,
+        0
+      ],
+      "surface": [
+        1,
+        47,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 100,
+      "birthYear": 2006,
+      "classicYear": 2009,
+      "birthday": "3월 14일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "JBC 클래식",
+        "제왕상",
+        "카시와 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "G",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "C",
+          "end": "E"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 98,
+      "name": "삼손 빅",
+      "height": 143,
+      "B": 72,
+      "H": 72,
+      "W": 51,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 101,
+      "birthYear": 1991,
+      "classicYear": 1994,
+      "birthday": "4월 14일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 99,
+      "name": "사운즈 오브 어스",
+      "height": 161,
+      "B": 80,
+      "H": 81,
+      "W": 52,
+      "starts": 30,
+      "wins": 2,
+      "dist": [
+        0,
+        3,
+        16,
+        11
+      ],
+      "surface": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 102,
+      "birthYear": 2011,
+      "classicYear": 2014,
+      "birthday": "4월 12일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 100,
+      "name": "로이스 앤 로이스",
+      "height": 159,
+      "B": 83,
+      "H": 82,
+      "W": 56,
+      "starts": 28,
+      "wins": 3,
+      "dist": [
+        0,
+        8,
+        15,
+        5
+      ],
+      "surface": [
+        27,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 103,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "3월 10일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "E"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 101,
+      "name": "카츠라기 에이스",
+      "height": 165,
+      "B": 81,
+      "H": 77,
+      "W": 54,
+      "starts": 22,
+      "wins": 10,
+      "dist": [
+        4,
+        3,
+        12,
+        3
+      ],
+      "surface": [
+        22,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 104,
+      "birthYear": 1980,
+      "classicYear": 1983,
+      "birthday": "4월 24일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "E",
+          "mile": "B",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 102,
+      "name": "네오 유니버스",
+      "height": 160,
+      "B": 79,
+      "H": 77,
+      "W": 52,
+      "starts": 13,
+      "wins": 7,
+      "dist": [
+        1,
+        4,
+        6,
+        2
+      ],
+      "surface": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 105,
+      "birthYear": 2000,
+      "classicYear": 2003,
+      "birthday": "5월 21일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "사츠키상",
+        "일본 더비"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "B",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 103,
+      "name": "히시 미라클",
+      "height": 156,
+      "B": 85,
+      "H": 88,
+      "W": 62,
+      "starts": 28,
+      "wins": 6,
+      "dist": [
+        4,
+        4,
+        14,
+        6
+      ],
+      "surface": [
+        28,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 106,
+      "birthYear": 1999,
+      "classicYear": 2002,
+      "birthday": "3월 31일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(봄)",
+        "다카라즈카 기념",
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "G",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "C",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 104,
+      "name": "탭 댄스 시티",
+      "height": 170,
+      "B": 89,
+      "H": 88,
+      "W": 55,
+      "starts": 42,
+      "wins": 12,
+      "dist": [
+        0,
+        3,
+        28,
+        11
+      ],
+      "surface": [
+        42,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 107,
+      "birthYear": 1997,
+      "classicYear": 2000,
+      "birthday": "3월 16일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "A",
+          "pace": "B",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 105,
+      "name": "두라멘테",
+      "height": 166,
+      "B": 89,
+      "H": 85,
+      "W": 57,
+      "starts": 9,
+      "wins": 5,
+      "dist": [
+        0,
+        5,
+        3,
+        1
+      ],
+      "surface": [
+        9,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 108,
+      "birthYear": 2012,
+      "classicYear": 2015,
+      "birthday": "3월 22일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "사츠키상",
+        "일본 더비"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "G",
+          "pace": "C",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 106,
+      "name": "라인 크라프트",
+      "height": 157,
+      "B": 85,
+      "H": 83,
+      "W": 55,
+      "starts": 13,
+      "wins": 6,
+      "dist": [
+        5,
+        6,
+        2,
+        0
+      ],
+      "surface": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 109,
+      "birthYear": 2002,
+      "classicYear": 2005,
+      "birthday": "4월 4일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "오카상",
+        "NHK 마일 C"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "B",
+          "long": "G"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "C",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 107,
+      "name": "세자리오",
+      "height": 167,
+      "B": 80,
+      "H": 84,
+      "W": 53,
+      "starts": 6,
+      "wins": 5,
+      "dist": [
+        0,
+        3,
+        2,
+        0
+      ],
+      "surface": [
+        6,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 110,
+      "birthYear": 2002,
+      "classicYear": 2005,
+      "birthday": "3월 31일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "오크스",
+        "아메리칸 오크스(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 108,
+      "name": "에어 메사이어",
+      "height": 162,
+      "B": 83,
+      "H": 81,
+      "W": 56,
+      "starts": 12,
+      "wins": 4,
+      "dist": [
+        2,
+        6,
+        4,
+        0
+      ],
+      "surface": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 111,
+      "birthYear": 2002,
+      "classicYear": 2005,
+      "birthday": "2월 4일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "슈카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "C",
+          "mile": "B",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 109,
+      "name": "데어링 하트",
+      "height": 165,
+      "B": 82,
+      "H": 84,
+      "W": 52,
+      "starts": 26,
+      "wins": 4,
+      "dist": [
+        5,
+        19,
+        2,
+        0
+      ],
+      "surface": [
+        23,
+        3,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 112,
+      "birthYear": 2002,
+      "classicYear": 2005,
+      "birthday": "3월 9일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "D"
+        },
+        "distance": {
+          "sprint": "B",
+          "mile": "A",
+          "middle": "E",
+          "long": "G"
+        },
+        "style": {
+          "front": "D",
+          "pace": "A",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 110,
+      "name": "후사이치 판도라",
+      "height": 165,
+      "B": 92,
+      "H": 86,
+      "W": 61,
+      "starts": 21,
+      "wins": 4,
+      "dist": [
+        0,
+        11,
+        9,
+        1
+      ],
+      "surface": [
+        19,
+        2,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 113,
+      "birthYear": 2003,
+      "classicYear": 2006,
+      "birthday": "2월 27일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "엘리자베스 여왕배"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "E"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "B",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 111,
+      "name": "부에나 비스타",
+      "height": 159,
+      "B": 81,
+      "H": 81,
+      "W": 56,
+      "starts": 23,
+      "wins": 9,
+      "dist": [
+        0,
+        7,
+        12,
+        4
+      ],
+      "surface": [
+        22,
+        0,
+        1,
+        0
+      ],
+      "style": null,
+      "wordleId": 114,
+      "birthYear": 2006,
+      "classicYear": 2009,
+      "birthday": "3월 14일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "오카상",
+        "빅토리아 마일",
+        "오크스",
+        "천황상(가을)",
+        "재팬 컵",
+        "한신 JF"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "F"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 112,
+      "name": "오르페브르",
+      "height": 165,
+      "B": 82,
+      "H": 80,
+      "W": 55,
+      "starts": 21,
+      "wins": 12,
+      "dist": [
+        1,
+        5,
+        10,
+        5
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 115,
+      "birthYear": 2008,
+      "classicYear": 2011,
+      "birthday": "5월 14일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "사츠키상",
+        "일본 더비",
+        "다카라즈카 기념",
+        "킷카상",
+        "아리마 기념(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "D"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "F",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 113,
+      "name": "젠틸돈나",
+      "height": 167,
+      "B": 95,
+      "H": 87,
+      "W": 63,
+      "starts": 19,
+      "wins": 10,
+      "dist": [
+        0,
+        6,
+        10,
+        3
+      ],
+      "surface": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 116,
+      "birthYear": 2009,
+      "classicYear": 2012,
+      "birthday": "2월 20일",
+      "g1WinsSource": 6,
+      "g1Titles": [
+        "오카상",
+        "오크스",
+        "슈카상",
+        "재팬 컵(2회)",
+        "아리마 기념",
+        "두바이 시마 클래식(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 7
+    },
+    {
+      "id": 114,
+      "name": "윈 바리아시옹",
+      "height": 159,
+      "B": 76,
+      "H": 80,
+      "W": 55,
+      "starts": 23,
+      "wins": 4,
+      "dist": [
+        0,
+        3,
+        11,
+        9
+      ],
+      "surface": [
+        23,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 117,
+      "birthYear": 2008,
+      "classicYear": 2011,
+      "birthday": "4월 10일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "E",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "E",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 115,
+      "name": "어드마이어 그루브",
+      "height": 165,
+      "B": 88,
+      "H": 84,
+      "W": 57,
+      "starts": 21,
+      "wins": 8,
+      "dist": [
+        0,
+        3,
+        17,
+        1
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 118,
+      "birthYear": 2000,
+      "classicYear": 2003,
+      "birthday": "4월 30일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "엘리자베스 여왕배(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 116,
+      "name": "드림 저니",
+      "height": 144,
+      "B": 66,
+      "H": 69,
+      "W": 48,
+      "starts": 31,
+      "wins": 9,
+      "dist": [
+        1,
+        7,
+        18,
+        5
+      ],
+      "surface": [
+        31,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 119,
+      "birthYear": 2004,
+      "classicYear": 2007,
+      "birthday": "2월 24일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "다카라즈카 기념",
+        "아사히배 FS",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "F",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "G",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 117,
+      "name": "칼스톤 라이트오",
+      "height": 159,
+      "B": 80,
+      "H": 80,
+      "W": 55,
+      "starts": 36,
+      "wins": 9,
+      "dist": [
+        34,
+        2,
+        0,
+        0
+      ],
+      "surface": [
+        35,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 120,
+      "birthYear": 1998,
+      "classicYear": 2001,
+      "birthday": "5월 3일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "스프린터즈 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "D",
+          "middle": "G",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "C",
+          "late": "G",
+          "end": "G"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 118,
+      "name": "뒤랑달",
+      "height": 162,
+      "B": 89,
+      "H": 85,
+      "W": 56,
+      "starts": 18,
+      "wins": 8,
+      "dist": [
+        9,
+        9,
+        0,
+        0
+      ],
+      "surface": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 121,
+      "birthYear": 1999,
+      "classicYear": 2002,
+      "birthday": "5월 25일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "스프린터즈 S",
+        "마일 챔피언십(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "F",
+          "long": "G"
+        },
+        "style": {
+          "front": "G",
+          "pace": "G",
+          "late": "C",
+          "end": "A"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 119,
+      "name": "버블검 펠로",
+      "height": 166,
+      "B": 82,
+      "H": 84,
+      "W": 58,
+      "starts": 13,
+      "wins": 7,
+      "dist": [
+        0,
+        7,
+        6,
+        0
+      ],
+      "surface": [
+        13,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 122,
+      "birthYear": 1993,
+      "classicYear": 1996,
+      "birthday": "4월 11일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "천황상(가을)",
+        "아사히배 3세 S"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "B",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 120,
+      "name": "사쿠라 치토세 오",
+      "height": 164,
+      "B": 84,
+      "H": 84,
+      "W": 56,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 123,
+      "birthYear": 1990,
+      "classicYear": 1993,
+      "birthday": "5월 11일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "천황상(가을)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 121,
+      "name": "페노메노",
+      "height": 171,
+      "B": 81,
+      "H": 82,
+      "W": 59,
+      "starts": 18,
+      "wins": 7,
+      "dist": [
+        0,
+        0,
+        12,
+        6
+      ],
+      "surface": [
+        18,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 124,
+      "birthYear": 2009,
+      "classicYear": 2012,
+      "birthday": "4월 20일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "천황상(봄)(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "G",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "C",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 122,
+      "name": "블래스트 원피스",
+      "height": 174,
+      "B": 93,
+      "H": 90,
+      "W": 63,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 125,
+      "birthYear": 2015,
+      "classicYear": 2018,
+      "birthday": "4월 2일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 123,
+      "name": "아몬드 아이",
+      "height": 163,
+      "B": 86,
+      "H": 81,
+      "W": 57,
+      "starts": 15,
+      "wins": 11,
+      "dist": [
+        1,
+        7,
+        6,
+        1
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 126,
+      "birthYear": 2015,
+      "classicYear": 2018,
+      "birthday": "3월 10일",
+      "g1WinsSource": 7,
+      "g1Titles": [
+        "오카상",
+        "빅토리아 마일",
+        "오크스",
+        "슈카상",
+        "천황상(가을)(2회)",
+        "재팬 컵(2회)",
+        "두바이 터프(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "D"
+        }
+      },
+      "g1Wins": 9
+    },
+    {
+      "id": 124,
+      "name": "럭키 라일락",
+      "height": 162,
+      "B": 88,
+      "H": 85,
+      "W": 57,
+      "starts": 19,
+      "wins": 7,
+      "dist": [
+        0,
+        10,
+        8,
+        1
+      ],
+      "surface": [
+        19,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 127,
+      "birthYear": 2015,
+      "classicYear": 2018,
+      "birthday": "4월 3일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "오사카배",
+        "엘리자베스 여왕배(2회)",
+        "한신 JF"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "C"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 125,
+      "name": "그란 알레그리아",
+      "height": 160,
+      "B": 84,
+      "H": 85,
+      "W": 55,
+      "starts": 15,
+      "wins": 9,
+      "dist": [
+        3,
+        10,
+        2,
+        0
+      ],
+      "surface": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 128,
+      "birthYear": 2016,
+      "classicYear": 2019,
+      "birthday": "1월 24일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "오카상",
+        "빅토리아 마일",
+        "야스다 기념",
+        "스프린터즈 S",
+        "마일 챔피언십(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "C",
+          "long": "G"
+        },
+        "style": {
+          "front": "F",
+          "pace": "A",
+          "late": "A",
+          "end": "B"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 126,
+      "name": "러브즈 온리 유",
+      "height": 158,
+      "B": 88,
+      "H": 88,
+      "W": 58,
+      "starts": 16,
+      "wins": 8,
+      "dist": [
+        0,
+        4,
+        9,
+        2
+      ],
+      "surface": [
+        16,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 129,
+      "birthYear": 2016,
+      "classicYear": 2019,
+      "birthday": "3월 26일",
+      "g1WinsSource": 4,
+      "g1Titles": [
+        "오크스",
+        "퀸 엘리자베스 2세 C(G1)",
+        "브리더스컵 필리&메어 터프(G1)",
+        "홍콩 컵(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "G"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 127,
+      "name": "크로노 제네시스",
+      "height": 152,
+      "B": 77,
+      "H": 76,
+      "W": 54,
+      "starts": 17,
+      "wins": 8,
+      "dist": [
+        0,
+        5,
+        9,
+        3
+      ],
+      "surface": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 130,
+      "birthYear": 2016,
+      "classicYear": 2019,
+      "birthday": "3월 6일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "다카라즈카 기념(2회)",
+        "슈카상",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "C",
+          "end": "E"
+        }
+      },
+      "g1Wins": 4
+    },
+    {
+      "id": 128,
+      "name": "카렌 부케도르",
+      "height": 153,
+      "B": 78,
+      "H": 77,
+      "W": 53,
+      "starts": 17,
+      "wins": 2,
+      "dist": [
+        0,
+        5,
+        9,
+        3
+      ],
+      "surface": [
+        17,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 131,
+      "birthYear": 2016,
+      "classicYear": 2019,
+      "birthday": "4월 23일",
+      "g1WinsSource": 0,
+      "g1Titles": [],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "E",
+          "pace": "A",
+          "late": "B",
+          "end": "G"
+        }
+      },
+      "g1Wins": 0
+    },
+    {
+      "id": 129,
+      "name": "스테이 골드",
+      "height": 142,
+      "B": 67,
+      "H": 68,
+      "W": 49,
+      "starts": 50,
+      "wins": 7,
+      "dist": [
+        0,
+        2,
+        33,
+        15
+      ],
+      "surface": [
+        49,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 132,
+      "birthYear": 1994,
+      "classicYear": 1997,
+      "birthday": "3월 24일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "홍콩 바즈(G1)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "G",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 130,
+      "name": "레드 디자이어",
+      "height": 160,
+      "B": 74,
+      "H": 79,
+      "W": 55,
+      "starts": 14,
+      "wins": 4,
+      "dist": [
+        0,
+        5,
+        6,
+        1
+      ],
+      "surface": [
+        12,
+        0,
+        2,
+        0
+      ],
+      "style": null,
+      "wordleId": 133,
+      "birthYear": 2006,
+      "classicYear": 2009,
+      "birthday": "4월 19일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "슈카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "B"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "A",
+          "middle": "A",
+          "long": "F"
+        },
+        "style": {
+          "front": "G",
+          "pace": "B",
+          "late": "A",
+          "end": "F"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 131,
+      "name": "키세키",
+      "height": 166,
+      "B": 86,
+      "H": 84,
+      "W": 56,
+      "starts": 33,
+      "wins": 4,
+      "dist": [
+        0,
+        4,
+        21,
+        8
+      ],
+      "surface": [
+        33,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 134,
+      "birthYear": 2014,
+      "classicYear": 2017,
+      "birthday": "5월 13일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "킷카상"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "C",
+          "middle": "A",
+          "long": "A"
+        },
+        "style": {
+          "front": "A",
+          "pace": "B",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 132,
+      "name": "포에버 영",
+      "height": 167,
+      "B": 90,
+      "H": 89,
+      "W": 60,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 135,
+      "birthYear": 2021,
+      "classicYear": 2024,
+      "birthday": "2월 24일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "전일본 2세 우준(JpnI)",
+        "재팬 더트 클래식(JpnI)",
+        "도쿄 대상전(GI)",
+        "사우디 컵(2회, GI)",
+        "브리더스컵 클래식(GI)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 6
+    },
+    {
+      "id": 133,
+      "name": "마르슈 로렌",
+      "height": 157,
+      "B": 90,
+      "H": 89,
+      "W": 59,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 136,
+      "birthYear": 2016,
+      "classicYear": 2019,
+      "birthday": "2월 4일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "브리더스컵 디스타프(GI)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 134,
+      "name": "에피파네이아",
+      "height": 159,
+      "B": 81,
+      "H": 83,
+      "W": 56,
+      "starts": 14,
+      "wins": 6,
+      "dist": [
+        0,
+        1,
+        11,
+        2
+      ],
+      "surface": [
+        13,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 137,
+      "birthYear": 2010,
+      "classicYear": 2013,
+      "birthday": "2월 11일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "킷카상",
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 135,
+      "name": "로고타입",
+      "height": 160,
+      "B": 83,
+      "H": 84,
+      "W": 56,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 138,
+      "birthYear": 2010,
+      "classicYear": 2013,
+      "birthday": "3월 10일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "아사히배 FS",
+        "사츠키상",
+        "야스다 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 136,
+      "name": "빅투아르 피사",
+      "height": 161,
+      "B": 80,
+      "H": 78,
+      "W": 53,
+      "starts": 15,
+      "wins": 8,
+      "dist": [
+        0,
+        2,
+        11,
+        2
+      ],
+      "surface": [
+        14,
+        1,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 139,
+      "birthYear": 2007,
+      "classicYear": 2010,
+      "birthday": "3월 31일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "사츠키상",
+        "아리마 기념",
+        "두바이 월드컵(GI)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "E"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 137,
+      "name": "로즈 킹덤",
+      "height": 155,
+      "B": 74,
+      "H": 77,
+      "W": 54,
+      "starts": 25,
+      "wins": 6,
+      "dist": [
+        0,
+        5,
+        15,
+        5
+      ],
+      "surface": [
+        25,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 140,
+      "birthYear": 2007,
+      "classicYear": 2010,
+      "birthday": "5월 10일",
+      "g1WinsSource": 2,
+      "g1Titles": [
+        "아사히배 FS",
+        "재팬 컵"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 138,
+      "name": "룰러쉽",
+      "height": 160,
+      "B": 90,
+      "H": 86,
+      "W": 57,
+      "starts": 20,
+      "wins": 8,
+      "dist": [
+        0,
+        3,
+        12,
+        5
+      ],
+      "surface": [
+        20,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 141,
+      "birthYear": 2007,
+      "classicYear": 2010,
+      "birthday": "5월 15일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "퀸 엘리자베스 2세 C(GI)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "B",
+          "middle": "A",
+          "long": "B"
+        },
+        "style": {
+          "front": "G",
+          "pace": "A",
+          "late": "A",
+          "end": "A"
+        }
+      },
+      "g1Wins": 1
+    },
+    {
+      "id": 139,
+      "name": "타이틀홀더",
+      "height": 155,
+      "B": 79,
+      "H": 83,
+      "W": 54,
+      "starts": 0,
+      "wins": 0,
+      "dist": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "surface": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 142,
+      "birthYear": 2018,
+      "classicYear": 2021,
+      "birthday": "2월 10일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "킷카상",
+        "천황상(봄)",
+        "다카라즈카 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "?",
+          "dirt": "?"
+        },
+        "distance": {
+          "sprint": "?",
+          "mile": "?",
+          "middle": "?",
+          "long": "?"
+        },
+        "style": {
+          "front": "?",
+          "pace": "?",
+          "late": "?",
+          "end": "?"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 140,
+      "name": "맨하탄 카페",
+      "height": 155,
+      "B": 73,
+      "H": 78,
+      "W": 54,
+      "starts": 12,
+      "wins": 6,
+      "dist": [
+        0,
+        1,
+        5,
+        6
+      ],
+      "surface": [
+        12,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 25,
+      "birthYear": 1998,
+      "classicYear": 2001,
+      "birthday": "3월 5일",
+      "g1WinsSource": 3,
+      "g1Titles": [
+        "천황상(봄)",
+        "킷카상",
+        "아리마 기념"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "G",
+          "mile": "F",
+          "middle": "B",
+          "long": "A"
+        },
+        "style": {
+          "front": "G",
+          "pace": "C",
+          "late": "A",
+          "end": "C"
+        }
+      },
+      "g1Wins": 3
+    },
+    {
+      "id": 141,
+      "name": "베르시나",
+      "height": 158,
+      "B": 83,
+      "H": 78,
+      "W": 53,
+      "starts": 21,
+      "wins": 5,
+      "dist": [
+        1,
+        9,
+        10,
+        1
+      ],
+      "surface": [
+        21,
+        0,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 90,
+      "birthYear": 2009,
+      "classicYear": 2012,
+      "birthday": "3월 5일",
+      "g1WinsSource": 1,
+      "g1Titles": [
+        "빅토리아 마일(2회)"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "A",
+          "dirt": "G"
+        },
+        "distance": {
+          "sprint": "D",
+          "mile": "A",
+          "middle": "A",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "E",
+          "end": "G"
+        }
+      },
+      "g1Wins": 2
+    },
+    {
+      "id": 142,
+      "name": "에스푸아르 시티",
+      "height": 153,
+      "B": 79,
+      "H": 79,
+      "W": 55,
+      "starts": 40,
+      "wins": 17,
+      "dist": [
+        5,
+        30,
+        5,
+        0
+      ],
+      "surface": [
+        7,
+        33,
+        0,
+        0
+      ],
+      "style": null,
+      "wordleId": 81,
+      "birthYear": 2005,
+      "classicYear": 2008,
+      "birthday": "4월 22일",
+      "g1WinsSource": 5,
+      "g1Titles": [
+        "페브러리 S",
+        "재팬 컵 더트",
+        "카시와 기념(3회)",
+        "마일 챔피언십 남부배(3회)",
+        "JBC 스프린트"
+      ],
+      "aptitudes": {
+        "surface": {
+          "turf": "E",
+          "dirt": "A"
+        },
+        "distance": {
+          "sprint": "A",
+          "mile": "A",
+          "middle": "B",
+          "long": "G"
+        },
+        "style": {
+          "front": "A",
+          "pace": "A",
+          "late": "F",
+          "end": "G"
+        }
+      },
+      "g1Wins": 9
+    }
+  ]
+}

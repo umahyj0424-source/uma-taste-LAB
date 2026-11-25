@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#422693">
+<title>트레이너 취향 감정서 | 트레센 취향 연구소</title>
+<link rel="icon" href="./flag.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./styles.css">
+<script defer src="./roster.js"></script>
+<script defer src="./portraits.js"></script>
+<script defer src="./wordle-data.js"></script>
+<script defer src="./history-titles.js"></script>
+<script defer src="./database.js"></script>
+<script defer src="./title-rules.js"></script>
+<script defer src="./model.js"></script>
+<script defer src="./app.js"></script>
+<script defer src="./editor.js"></script>
+<script defer src="./title-editor.js"></script>
+</head>
+<body>
+<header class="mast"><div class="wrap nav"><a class="brand" href="#" id="home"><img src="./flag.svg" alt="" width="39" height="39"><span>트레센 취향 연구소<small>TRACEN TASTE LAB</small></span></a><nav class="manageNav"><button class="help" id="openTitles">칭호 관리</button><button class="help" id="openData">데이터 관리</button><button class="help" id="help"><span aria-hidden="true">ⓘ</span> 감정서 안내</button></nav></div></header>
+<main class="wrap">
+<section id="selectPage">
+<div class="hero"><div class="heroPattern"></div><div class="heroText"><span class="eyebrow"><i class="checker"></i> TRAINER PREFERENCE REPORT</span><h1>트레이너<br><em>취향 감정서</em></h1><p>좋아하는 우마무스메를 고르고,<br class="smallOnly"> 나만의 트레이너 타입을 확인하세요.</p></div><div class="art" aria-hidden="true"><div class="speed"></div><img id="heroA" alt=""><img id="heroB" alt=""><img id="heroC" alt=""></div></div>
+<div class="columns"><section class="catalog" aria-labelledby="rosterTitle"><div class="sectionHead"><div class="overline"><span></span> CHARACTER ROSTER</div><div class="row heading"><h2 id="rosterTitle">우마무스메 선택</h2><button class="minor" id="random"><span aria-hidden="true">⚄</span> 랜덤 5명</button></div><p>좋아하는 순서대로 3명에서 10명까지 선택하세요.</p></div>
+<div class="tools"><div class="search"><span class="glass"></span><input type="search" id="query" aria-label="우마무스메 검색" placeholder="이름 또는 초성으로 검색"></div><select aria-label="캐릭터 정렬" id="sort"><option value="id">등록순</option><option value="name">가나다순</option><option value="height">키 큰 순</option></select></div>
+<div class="filters" id="filters" aria-label="원본마 최다 출전 거리 필터"></div>
+<div id="grid" class="grid"></div><p id="noResults" hidden>검색 조건에 맞는 우마무스메가 없습니다. <button class="textbtn" id="clearSearch">전체 보기</button></p><button class="more" id="more">더 보기</button></section>
+<button id="mobileLineup" class="mobileLineup" type="button">나의 라인업</button><aside class="ticket" id="ticket"><header><div class="overline"><span></span> MY LINEUP</div><div class="row"><h2>나의 라인업</h2><button class="textbtn" id="reset">초기화</button></div></header><div class="ticketBody"><div class="countRow"><span>선택한 우마무스메</span><b><strong id="count">0</strong> / 10</b></div><div class="segments" id="segments" aria-hidden="true"></div><ol id="lineup"></ol></div><div class="stub"><label for="nick">트레이너 이름 <span>선택</span></label><input id="nick" placeholder="트레이너" maxlength="20" autocomplete="off"><button id="analyze" class="primary" disabled>취향 감정서 발급</button><small id="needed" aria-live="polite"></small></div></aside></div>
+</section>
+<section id="reportPage" hidden></section>
+</main><footer class="wrap footer"><b>TRACEN TASTE LAB</b><span>우마무스메 프리티 더비 · 비공식 팬 프로젝트</span></footer>
+<dialog id="guide"><h2>감정서 안내</h2><p>가장 좋아하는 우마무스메부터 3~10명을 고르세요. 선택을 해제한 뒤 다시 고르면 순서를 바꿀 수 있습니다.</p><h3>트레이너 타입은 어떻게 정하나요?</h3><p>원본 경주마마다 거리별·주로별 출전 비율을 구한 뒤, 1순위부터 10점, 9점 순으로 가중 평균합니다. 거리 비율이 가장 높은 구간을 칭호에 넣습니다. 대표 각질도 선택 순위로 가중 집계하고, 동률이면 함께 표시합니다. 입력된 각질만 사용합니다.</p><p>B·H·W는 가슴·엉덩이·허리둘레입니다. 각 부위의 선택 평균이 전체 평균에서 0.5 표준편차 이상 차이나면 상·하, 1.5 이상이면 극단 문구를 붙입니다. 그 사이의 중앙 구간에는 중간 문구를 씁니다. 신장과 둘레의 cm 표시는 단순 평균입니다. 각 항목은 값이 있는 캐릭터만 계산하며, 원본마 기록이 없는 캐릭터도 선택할 수 있습니다.</p><p>거리 필터는 원본마가 가장 많이 출전한 구간을 기준으로 합니다. 공동 1위는 해당 구간에 모두 표시됩니다.</p><button id="closeGuide" class="primary">닫기</button></dialog>
+<dialog id="dataDialog" aria-labelledby="dbTitle">
+<div class="row"><h2 id="dbTitle">데이터 관리</h2><button class="minor" id="dbClose">닫기</button></div>
+<p>수정한 기록은 이 브라우저에 저장됩니다. 모든 방문자에게 적용하려면 JSON을 내보내 GitHub 저장소의 <code>database.json</code>을 교체하세요.</p>
+<div class="dbPick"><label>보기<select id="dbFilter"><option value="races">원본마 전적 미입력</option><option value="styles">각질 미입력</option><option value="profiles">프로필 미입력</option><option value="all">전체 142명</option></select></label>
+<label>캐릭터<select id="dbCharacter"></select></label></div>
+<form id="recordForm"><label>대표 각질<select name="style"><option value="">미입력</option><option>도주</option><option>선행</option><option>선입</option><option>추입</option></select></label>
+<div id="dbFields"></div><small>거리·주로별 합계와 승수는 각각 총출전 이하여야 합니다. 확인한 항목만 입력하세요.</small>
+<button class="primary" type="submit">캐릭터 기록 저장</button></form>
+<div class="dbTransfer"><button class="minor" id="dbExport">전체 JSON 내보내기</button><label>JSON 가져오기<input type="file" id="dbImport" accept=".json,application/json"></label></div><small>가져온 ID의 기록을 교체합니다. 142명 전체 또는 일부 캐릭터 파일을 사용할 수 있어요.</small>
+<p id="dbStatus" role="status"></p></dialog>
+<dialog id="titleDialog"><div class="row"><h2>칭호 관리</h2><button class="minor" id="closeTitles">닫기</button></div><p>특별 조합, 발급 기준, 우선순위를 수정하세요. 저장은 현재 브라우저에 적용됩니다.</p><div id="titleFields"></div><button class="minor" id="addGroup">조합 추가</button><button class="primary" id="saveTitles">설정 저장</button><div class="dbTransfer"><button class="minor" id="exportTitles">JSON 내보내기</button><label>JSON 가져오기<input type="file" id="importTitles" accept=".json"></label><button class="minor" id="resetTitles">배포 설정 복원</button></div><p id="titleStatus" role="status"></p></dialog><dialog id="copyDialog"><h2>결과 복사</h2><p>아래 내용을 선택해 복사하세요.</p><textarea id="manualCopy" readonly></textarea><button id="closeCopy" class="primary">닫기</button></dialog>
+<div id="notice" class="notice" role="status"></div>
+</body></html>
